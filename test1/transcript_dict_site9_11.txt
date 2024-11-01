@@ -1,0 +1,40 @@
+[Warning] 'tarty1' font is not printable in this environment.
+
+[INFO] Loaded wordlist file with 1829 words.
+[INFO] Beginning enumeration...
+301    Dict     13l    818c     http://192.168.56.101:8889/images
+200    Dict     29l    764c     http://192.168.56.101:8889/robots.txt
+200    Dict     967l   47780c   http://192.168.56.101:8889/index.php
+200    Dict     967l   47771c   http://192.168.56.101:8889/
+301    Dict     13l    818c     http://192.168.56.101:8889/templates
+200    Dict     50l    2974c    http://192.168.56.101:8889/web.config.txt
+301    Dict     13l    818c     http://192.168.56.101:8889/media
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins
+301    Dict     13l    818c     http://192.168.56.101:8889/includes
+301    Dict     13l    818c     http://192.168.56.101:8889/cache
+301    Dict     13l    818c     http://192.168.56.101:8889/modules
+301    Dict     13l    818c     http://192.168.56.101:8889/api
+[INFO] Sent 1000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/tmp
+301    Dict     13l    818c     http://192.168.56.101:8889/components
+301    Dict     13l    818c     http://192.168.56.101:8889/language
+[INFO] Sent 2000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/libraries
+[INFO] Sent 3000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/administrator
+301    Dict     13l    818c     http://192.168.56.101:8889/cli
+200    Dict     339l   18092c   http://192.168.56.101:8889/LICENSE.txt
+[INFO] Sent 4000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/layouts
+[INFO] Sent 5000 requests.
+200    Dict     172l   6899c    http://192.168.56.101:8889/htaccess.txt
+200    Dict     78l    5275c    http://192.168.56.101:8889/README.txt
+[INFO] Sent 6000 requests.
+200    Dict     0l     0c       http://192.168.56.101:8889/configuration.php
+
+==== Summary ====
+Finished enumerating in 69.03 seconds.
+Totals: 23 / 6857
+
+Breakdown by request origin:
+- Dict: 23 / 6857

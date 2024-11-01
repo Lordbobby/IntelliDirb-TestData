@@ -1,0 +1,45 @@
+[Warning] 'tarty1' font is not printable in this environment.
+
+[INFO] Loaded wordlist file with 1829 words.
+[INFO] Beginning enumeration...
+200    Dict     321l   13239c   http://192.168.56.101:81/index.php
+200    Dict     321l   13241c   http://192.168.56.101:81/
+301    Dict     9l     320c     http://192.168.56.101:81/images
+301    Dict     9l     320c     http://192.168.56.101:81/assets
+200    Dict     69l    1813c    http://192.168.56.101:81/web.config
+301    Dict     9l     319c     http://192.168.56.101:81/files
+301    Dict     9l     322c     http://192.168.56.101:81/includes
+200    Dict     83l    2256c    http://192.168.56.101:81/composer.json
+301    Dict     9l     320c     http://192.168.56.101:81/vendor
+301    Dict     9l     319c     http://192.168.56.101:81/cache
+301    Dict     9l     320c     http://192.168.56.101:81/config
+200    Dict     0l     0c       http://192.168.56.101:81/config.php
+200    Dict     5110l  187145c  http://192.168.56.101:81/composer.lock
+301    Dict     9l     320c     http://192.168.56.101:81/styles
+301    Dict     9l     318c     http://192.168.56.101:81/docs
+200    Dict     0l     0c       http://192.168.56.101:81/common.php
+[INFO] Sent 1000 requests.
+301    Dict     9l     322c     http://192.168.56.101:81/download
+200    Dict     306l   12429c   http://192.168.56.101:81/search.php
+301    Dict     9l     317c     http://192.168.56.101:81/bin
+301    Dict     9l     322c     http://192.168.56.101:81/language
+[INFO] Sent 2000 requests.
+301    Dict     9l     324c     http://192.168.56.101:81/javascript
+[INFO] Sent 3000 requests.
+[INFO] Sent 4000 requests.
+400    Dict     0l     68c      http://192.168.56.101:81/cron.php
+301    Dict     9l     319c     http://192.168.56.101:81/store
+301    Dict     11l    314c     http://192.168.56.101:81/faq.php
+[INFO] Sent 5000 requests.
+301    Dict     11l    298c     http://192.168.56.101:81/feed.php
+[INFO] Sent 6000 requests.
+301    Dict     11l    334c     http://192.168.56.101:81/report.php
+301    Dict     9l     317c     http://192.168.56.101:81/adm
+301    Dict     9l     317c     http://192.168.56.101:81/ext
+
+==== Summary ====
+Finished enumerating in 77.34 seconds.
+Totals: 28 / 6857
+
+Breakdown by request origin:
+- Dict: 28 / 6857

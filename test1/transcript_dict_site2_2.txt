@@ -1,0 +1,37 @@
+[Warning] 'tarty1' font is not printable in this environment.
+
+[INFO] Loaded wordlist file with 1829 words.
+[INFO] Beginning enumeration...
+301    Dict     9l     324c     http://192.168.56.101:82/wp-content
+200    Dict     848l   84110c   http://192.168.56.101:82/
+301    Dict     9l     322c     http://192.168.56.101:82/wp-admin
+301    Dict     9l     325c     http://192.168.56.101:82/wp-includes
+200    Dict     11l    219c     http://192.168.56.101:82/wp-links-opml.php
+403    Dict     115l   2501c    http://192.168.56.101:82/wp-mail.php
+200    Dict     4l     135c     http://192.168.56.101:82/wp-trackback.php
+200    Dict     0l     0c       http://192.168.56.101:82/wp-blog-header.php
+200    Dict     0l     0c       http://192.168.56.101:82/wp-load.php
+405    Dict     0l     42c      http://192.168.56.101:82/xmlrpc.php
+200    Dict     0l     0c       http://192.168.56.101:82/wp-config.php
+200    Dict     76l    4069c    http://192.168.56.101:82/wp-login.php
+200    Dict     384l   19915c   http://192.168.56.101:82/license.txt
+302    Dict     0l     0c       http://192.168.56.101:82/wp-signup.php
+500    Dict     0l     0c       http://192.168.56.101:82/wp-settings.php
+302    Dict     0l     0c       http://192.168.56.101:82/wp-activate.php
+405    Dict     0l     0c       http://192.168.56.101:82/wp-comments-post.php
+200    Dict     0l     0c       http://192.168.56.101:82/wp-cron.php
+301    Dict     9l     324c     http://192.168.56.101:82/javascript
+[INFO] Sent 1000 requests.
+[INFO] Sent 2000 requests.
+[INFO] Sent 3000 requests.
+[INFO] Sent 4000 requests.
+[INFO] Sent 5000 requests.
+[INFO] Sent 6000 requests.
+200    Dict     97l    7409c    http://192.168.56.101:82/readme.html
+
+==== Summary ====
+Finished enumerating in 59.30 seconds.
+Totals: 20 / 6857
+
+Breakdown by request origin:
+- Dict: 20 / 6857

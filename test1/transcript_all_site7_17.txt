@@ -1,0 +1,35 @@
+[Warning] 'tarty1' font is not printable in this environment.
+
+[INFO] Loaded wordlist file with 1829 words.
+[INFO] Beginning enumeration...
+[INFO] Sent 1000 requests.
+200    Dict     44l    8253c    http://192.168.56.101:8887/
+[INFO] Identified service nginx from response.
+301    Dict     7l     178c     http://192.168.56.101:8887/assets
+200    Href     8l     2446c    http://192.168.56.101:8887/assets/img/apple-icon.png
+200    Href     15l    2761c    http://192.168.56.101:8887/assets/img/favicon.png
+200    Src      0l     2868c    http://192.168.56.101:8887/runtime.js
+200    Src      0l     47604c   http://192.168.56.101:8887/polyfills.js
+200    Href     43l    266728c  http://192.168.56.101:8887/styles.css
+200    Src      0l     427726c  http://192.168.56.101:8887/main.js
+403    Redirect 7l     162c     http://192.168.56.101:8887/assets/
+200    Script   193l   20156c   http://192.168.56.101:8887/assets/img/angular2-logo.png
+200    Service  44l    8253c    http://192.168.56.101:8887/index.html
+[INFO] Sent 2000 requests.
+[INFO] Sent 3000 requests.
+[INFO] Sent 4000 requests.
+[INFO] Sent 5000 requests.
+[INFO] Sent 6000 requests.
+200    Dict     407l   19721c   http://192.168.56.101:8887/3rdpartylicenses.txt
+
+==== Summary ====
+Finished enumerating in 94.96 seconds.
+Totals: 12 / 6916
+
+Breakdown by request origin:
+- Dict:     3 / 6853
+- Href:     3 / 3
+- Src:      3 / 3
+- Service:  1 / 45
+- Redirect: 1 / 1
+- Script:   1 / 11

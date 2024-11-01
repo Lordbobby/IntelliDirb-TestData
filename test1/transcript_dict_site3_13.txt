@@ -1,0 +1,25 @@
+[Warning] 'tarty1' font is not printable in this environment.
+
+[INFO] Loaded wordlist file with 1829 words.
+[INFO] Beginning enumeration...
+[INFO] Sent 1000 requests.
+200    Dict     409l   29386c   http://192.168.56.101:83/
+301    Dict     9l     317c     http://192.168.56.101:83/css
+301    Dict     9l     316c     http://192.168.56.101:83/js
+301    Dict     9l     320c     http://192.168.56.101:83/assets
+301    Dict     9l     318c     http://192.168.56.101:83/scss
+301    Dict     9l     324c     http://192.168.56.101:83/javascript
+[INFO] Sent 2000 requests.
+200    Dict     409l   29386c   http://192.168.56.101:83/index.html
+[INFO] Sent 3000 requests.
+[INFO] Sent 4000 requests.
+[INFO] Sent 5000 requests.
+[INFO] Sent 6000 requests.
+301    Dict     9l     320c     http://192.168.56.101:83/manual
+
+==== Summary ====
+Finished enumerating in 106.40 seconds.
+Totals: 8 / 6857
+
+Breakdown by request origin:
+- Dict: 8 / 6857

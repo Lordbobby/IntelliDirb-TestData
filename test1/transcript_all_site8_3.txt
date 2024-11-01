@@ -1,0 +1,99 @@
+[Warning] 'tarty1' font is not printable in this environment.
+
+[INFO] Loaded wordlist file with 1829 words.
+[INFO] Beginning enumeration...
+200    Dict     271l   13733c   http://192.168.56.101:8888/
+[INFO] Identified service litespeed from response.
+[INFO] Sent 1000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8888/css
+301    Dict     13l    818c     http://192.168.56.101:8888/img
+301    Dict     13l    818c     http://192.168.56.101:8888/cgi-bin
+200    Dict     198l   6520c    http://192.168.56.101:8888/upload.html
+200    Dict     35l    1770c    http://192.168.56.101:8888/upload.php
+[INFO] Identified service php from response.
+200    Href     130l   5753c    http://192.168.56.101:8888/docs/index.html
+200    Href     475l   9567c    http://192.168.56.101:8888/css/custom.css
+200    Href     7214l  155083c  http://192.168.56.101:8888/css/bootstrap.min.css
+200    Src      14l    2075c    http://192.168.56.101:8888/img/php-icon.png
+[INFO] Sent 2000 requests.
+200    Src      12l    3215c    http://192.168.56.101:8888/img/404-icon.png
+200    Src      51l    16330c   http://192.168.56.101:8888/img/olsws_logo.png
+200    Src      9l     2386c    http://192.168.56.101:8888/img/pwd_protect-icon.png
+200    Src      3l     1089c    http://192.168.56.101:8888/img/powered_by_ols-new.png
+200    Src      5l     1448c    http://192.168.56.101:8888/img/file_upload-icon.png
+200    Src      13l    2975c    http://192.168.56.101:8888/img/cgi-icon.png
+200    Src      9l     1886c    http://192.168.56.101:8888/img/blocked_content-icon.png
+301    Dict     13l    818c     http://192.168.56.101:8888/docs
+200    Dict     925l   83252c   http://192.168.56.101:8888/phpinfo.php
+200    Href     142l   14948c   http://192.168.56.101:8888/docs/Templates_Help.html
+200    Href     161l   36827c   http://192.168.56.101:8888/docs/VHGeneral_Help.html
+200    Href     120l   17852c   http://192.168.56.101:8888/docs/ServLog_Help.html
+200    Href     134l   25067c   http://192.168.56.101:8888/docs/VHSecurity_Help.html
+200    Href     120l   16103c   http://192.168.56.101:8888/docs/LB_Context.html
+200    Href     130l   24508c   http://192.168.56.101:8888/docs/External_FCGI_Auth.html
+200    Href     169l   55054c   http://192.168.56.101:8888/docs/ServSecurity_Help.html
+200    Href     113l   8092c    http://192.168.56.101:8888/docs/AdminListeners_General_Help.html
+200    Href     119l   15075c   http://192.168.56.101:8888/docs/Redirect_Context.html
+200    Href     130l   24510c   http://192.168.56.101:8888/docs/External_LSAPI.html
+[INFO] Sent 3000 requests.
+200    Href     135l   19862c   http://192.168.56.101:8888/docs/AdminListeners_SSL_Help.html
+200    Href     120l   16025c   http://192.168.56.101:8888/docs/FCGI_Context.html
+200    Href     194l   9106c    http://192.168.56.101:8888/docs/intro.html
+200    Href     829l   41124c   http://192.168.56.101:8888/docs/license.html
+200    Href     228l   7692c    http://192.168.56.101:8888/docs/css/hdoc.css
+200    Href     172l   9625c    http://192.168.56.101:8888/docs/security.html
+200    Href     115l   11153c   http://192.168.56.101:8888/docs/External_Servlet.html
+200    Href     122l   7689c    http://192.168.56.101:8888/docs/Context_Help.html
+200    Href     117l   13057c   http://192.168.56.101:8888/docs/External_PL.html
+200    Href     155l   32066c   http://192.168.56.101:8888/docs/Module_Help.html
+200    Href     134l   29721c   http://192.168.56.101:8888/docs/Static_Context.html
+200    Href     120l   15956c   http://192.168.56.101:8888/docs/Module_Context.html
+200    Href     125l   21491c   http://192.168.56.101:8888/docs/CGI_Context.html
+200    Href     194l   12028c   http://192.168.56.101:8888/docs/ExtApp_Help.html
+200    Href     108l   6810c    http://192.168.56.101:8888/docs/Real_Time_Stats_Help.html
+200    Href     123l   9024c    http://192.168.56.101:8888/docs/ScriptHandler_Help.html
+200    Href     137l   20050c   http://192.168.56.101:8888/docs/ServerStat_Help.html
+200    Href     126l   22678c   http://192.168.56.101:8888/docs/Java_Web_App_Context.html
+200    Href     157l   7716c    http://192.168.56.101:8888/docs/admin.html
+200    Href     109l   6332c    http://192.168.56.101:8888/docs/External_LB.html
+200    Href     163l   36700c   http://192.168.56.101:8888/docs/ServGeneral_Help.html
+200    Href     128l   18574c   http://192.168.56.101:8888/docs/AdminGeneral_Help.html
+200    Href     113l   5530c    http://192.168.56.101:8888/docs/webconsole.html
+200    Href     176l   51963c   http://192.168.56.101:8888/docs/ServTuning_Help.html
+200    Href     120l   16304c   http://192.168.56.101:8888/docs/Servlet_Context.html
+200    Href     130l   24428c   http://192.168.56.101:8888/docs/External_FCGI.html
+200    Href     135l   29472c   http://192.168.56.101:8888/docs/App_Server_Context.html
+200    Href     114l   8428c    http://192.168.56.101:8888/docs/VHWebSocket_Help.html
+200    Href     115l   11223c   http://192.168.56.101:8888/docs/External_WS.html
+200    Href     117l   13801c   http://192.168.56.101:8888/docs/Rewrite_Help.html
+200    Href     270l   10829c   http://192.168.56.101:8888/docs/install.html
+200    Href     140l   23832c   http://192.168.56.101:8888/docs/Listeners_SSL_Help.html
+200    Href     132l   22518c   http://192.168.56.101:8888/docs/App_Server_Help.html
+200    Href     113l   9853c    http://192.168.56.101:8888/docs/AdminSecurity_Help.html
+200    Href     120l   16182c   http://192.168.56.101:8888/docs/Proxy_Context.html
+200    Href     129l   18970c   http://192.168.56.101:8888/docs/VirtualHosts_Help.html
+200    Href     197l   10210c   http://192.168.56.101:8888/docs/config.html
+200    Href     118l   11910c   http://192.168.56.101:8888/docs/Listeners_General_Help.html
+200    Href     120l   16327c   http://192.168.56.101:8888/docs/LSAPI_Context.html
+200    Href     140l   24114c   http://192.168.56.101:8888/docs/VHSSL_Help.html
+200    Src      41l    3542c    http://192.168.56.101:8888/docs/img/ols_logo.svg
+[INFO] Sent 4000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8888/protected
+200    Dict     271l   13733c   http://192.168.56.101:8888/index.html
+200    Redirect 130l   5753c    http://192.168.56.101:8888/docs/
+200    Href     112l   8685c    http://192.168.56.101:8888/docs/CompilePHP_Help.html
+403    Redirect 14l    1240c    http://192.168.56.101:8888/protected/
+[INFO] Sent 5000 requests.
+[INFO] Sent 6000 requests.
+[INFO] Sent 7000 requests.
+
+==== Summary ====
+Finished enumerating in 100.88 seconds.
+Totals: 75 / 7461
+
+Breakdown by request origin:
+- Dict:     10 / 6849
+- Href:     54 / 55
+- Src:      9  / 10
+- Service:  0  / 542
+- Redirect: 2  / 5

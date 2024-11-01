@@ -1,0 +1,18 @@
+[Warning] 'tarty1' font is not printable in this environment.
+
+[INFO] Loaded wordlist file with 1829 words.
+[INFO] Beginning enumeration...
+403    Dict     7l     162c     http://192.168.56.101:86/
+[INFO] Sent 1000 requests.
+[INFO] Sent 2000 requests.
+[INFO] Sent 3000 requests.
+[INFO] Sent 4000 requests.
+[INFO] Sent 5000 requests.
+[INFO] Sent 6000 requests.
+
+==== Summary ====
+Finished enumerating in 70.78 seconds.
+Totals: 1 / 6857
+
+Breakdown by request origin:
+- Dict: 1 / 6857
