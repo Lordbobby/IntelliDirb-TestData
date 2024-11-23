@@ -5,7 +5,7 @@
 1730342751874386100,Response,Link,200,55922,http://192.168.56.101:84/wp-content/uploads/2020/09/product-bag2.jpg
 1730342751896848300,Response,Link,200,128044,http://192.168.56.101:84/wp-content/uploads/2020/02/sports-shoe5.jpg
 1730342751932002200,Response,Link,200,143661,http://192.168.56.101:84/wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/swiper-bundle.min.js
-1730342751944695200,Response,Link,200,326628,http://192.168.56.101:84/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2
+1730342751944695200,Response,Link,200,326628,http://192.168.56.101:84/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slntwght.woff2
 1730342752026721600,Response,Link,200,2356,http://192.168.56.101:84/wp-content/plugins/woocommerce/assets/js/frontend/order-attribution.min.js
 1730342752036488000,Response,Link,302,0,http://192.168.56.101:84/wp-admin/admin.php
 1730342752036488000,Response,Link,200,117479,http://192.168.56.101:84/wp-content/themes/astra/assets/css/minified/compatibility/woocommerce/woocommerce-grid.min.css

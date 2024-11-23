@@ -39,7 +39,7 @@
 1730425503365144800,Response,Link,200,6358,http://192.168.56.101:82/wp-includes/blocks/image/style.min.css
 1730425503365144800,Response,Link,200,63627,http://192.168.56.101:82/index.php/author/admin/
 1730425503386657500,Response,Link,200,59793,http://192.168.56.101:82/index.php/sample-page/
-1730425503413029200,Response,Link,200,326628,http://192.168.56.101:82/wp-content/themes/twentytwentyfour/assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2
+1730425503413029200,Response,Link,200,326628,http://192.168.56.101:82/wp-content/themes/twentytwentyfour/assets/fonts/inter/Inter-VariableFont_slntwght.woff2
 1730425503504782000,Response,Link,200,1649,http://192.168.56.101:82/index.php/comments/feed/
 1730425503506735500,Response,Link,200,199724,http://192.168.56.101:82/wp-content/themes/twentytwentyfour/assets/images/building-exterior.webp
 1730425503560443500,Response,Link,200,18726,http://192.168.56.101:82/wp-includes/js/wp-emoji-release.min.js

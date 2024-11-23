@@ -45,7 +45,7 @@
 1730342676085456800,Response,Link,200,132564,http://192.168.56.101:82/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_700.woff2
 1730342676121553800,Response,Service,200,3834,http://192.168.56.101:82/wp-admin/css/color-picker.css
 1730342676121553800,Response,Service,200,3872,http://192.168.56.101:82/wp-admin/css/color-picker-rtl.css
-1730342676121553800,Response,Link,200,326628,http://192.168.56.101:82/wp-content/themes/twentytwentyfour/assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2
+1730342676121553800,Response,Link,200,326628,http://192.168.56.101:82/wp-content/themes/twentytwentyfour/assets/fonts/inter/Inter-VariableFont_slntwght.woff2
 1730342676186980200,Response,Service,200,3129,http://192.168.56.101:82/wp-admin/css/color-picker-rtl.min.css
 1730342676187998500,Response,Service,200,22222,http://192.168.56.101:82/wp-admin/css/
 1730342679916354100,Response,Service,400,1,http://192.168.56.101:82/wp-admin/admin-ajax.php

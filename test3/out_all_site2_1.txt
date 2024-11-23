@@ -34,7 +34,7 @@
 1731041042666290800,Response,Link,200,822237,http://192.168.56.101:82/wp-includes/js/zxcvbn.min.js
 1731041042675078600,Response,Link,200,132564,http://192.168.56.101:82/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_normal_700.woff2
 1731041048282142500,Response,Link,200,105184,http://192.168.56.101:82/wp-content/themes/twentytwentyfour/assets/fonts/cardo/cardo_italic_400.woff2
-1731041048321204400,Response,Link,200,326628,http://192.168.56.101:82/wp-content/themes/twentytwentyfour/assets/fonts/inter/Inter-VariableFont_slnt,wght.woff2
+1731041048321204400,Response,Link,200,326628,http://192.168.56.101:82/wp-content/themes/twentytwentyfour/assets/fonts/inter/Inter-VariableFont_slntwght.woff2
 1731041048438383300,Response,Link,200,36686,http://192.168.56.101:82/wp-includes/js/dist/interactivity.min.js
 1731041048439358400,Response,Link,200,63682,http://192.168.56.101:82/index.php/category/uncategorized/
 1731041048441311800,Response,Link,200,184133,http://192.168.56.101:82/index.php/wp-json/

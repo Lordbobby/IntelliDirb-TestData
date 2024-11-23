@@ -19,7 +19,7 @@
 1731043345019998100,Response,Link,200,4479,http://192.168.56.101:84/wp-content/plugins/ultimate-addons-for-gutenberg/assets/js/spectra-block-positioning.min.js
 1731043345033669400,Response,Link,200,16201,http://192.168.56.101:84/wp-content/plugins/variation-swatches-woo/assets/js/swatches.js
 1731043345043434000,Response,Link,200,69389,http://192.168.56.101:84/wp-content/uploads/2020/09/product-m-jeans2.jpg
-1731043345062964400,Response,Link,200,326628,http://192.168.56.101:84/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2
+1731043345062964400,Response,Link,200,326628,http://192.168.56.101:84/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slntwght.woff2
 1731043345137176900,Response,Link,200,52683,http://192.168.56.101:84/wp-content/uploads/2020/09/product-m-jeans3.jpg
 1731043345154754200,Response,Link,200,55922,http://192.168.56.101:84/wp-content/uploads/2020/09/product-bag2.jpg
 1731043345173346400,Response,Link,302,0,http://192.168.56.101:84/wp-admin/admin.php

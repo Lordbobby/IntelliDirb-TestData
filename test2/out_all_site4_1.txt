@@ -29,7 +29,7 @@
 1730428313373081500,Response,Link,200,2821,http://192.168.56.101:84/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js
 1730428313383823800,Response,Link,405,0,http://192.168.56.101:84/wp-comments-post.php
 1730428313383823800,Response,Link,200,457,http://192.168.56.101:84/wp-includes/js/dist/dom-ready.min.js
-1730428313385776200,Response,Link,200,326628,http://192.168.56.101:84/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slnt,wght.woff2
+1730428313385776200,Response,Link,200,326628,http://192.168.56.101:84/wp-content/plugins/woocommerce/assets/fonts/Inter-VariableFont_slntwght.woff2
 1730428313458033900,Response,Link,200,12795,http://192.168.56.101:84/wp-content/plugins/woocommerce/assets/client/blocks/wc-blocks.css
 1730428313458033900,Response,Link,200,87553,http://192.168.56.101:84/wp-includes/js/jquery/jquery.min.js
 1730428313471706100,Response,Link,200,234069,http://192.168.56.101:84/product-category/women/
