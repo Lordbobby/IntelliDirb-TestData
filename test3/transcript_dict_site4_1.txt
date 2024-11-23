@@ -1,0 +1,819 @@
+[Warning] 'tarty1' font is not printable in this environment.
+
+[INFO] Loaded wordlist file with 1829 words.
+[INFO] Beginning enumeration...
+200    Dict     812l   244665c  http://192.168.56.101:84/
+200    Dict     11l    220c     http://192.168.56.101:84/wp-links-opml.php
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes
+ -> Identified likely directory: wp-includes/ 
+403    Dict     115l   2478c    http://192.168.56.101:84/wp-mail.php
+301    Dict     7l     178c     http://192.168.56.101:84/wp-admin
+ -> Identified likely directory: wp-admin/ 
+200    Dict     0l     0c       http://192.168.56.101:84/wp-load.php
+302    Dict     0l     0c       http://192.168.56.101:84/admin
+405    Dict     0l     42c      http://192.168.56.101:84/xmlrpc.php
+301    Dict     7l     178c     http://192.168.56.101:84/wp-content
+ -> Identified likely directory: wp-content/ 
+200    Dict     0l     0c       http://192.168.56.101:84/wp-config.php
+200    Dict     84l    5172c    http://192.168.56.101:84/wp-login.php
+200    Dict     384l   19915c   http://192.168.56.101:84/license.txt
+500    Dict     114l   2412c    http://192.168.56.101:84/wp-config-sample.php
+302    Dict     0l     0c       http://192.168.56.101:84/wp-signup.php
+500    Dict     0l     0c       http://192.168.56.101:84/wp-settings.php
+200    Dict     6l     216c     http://192.168.56.101:84/robots.txt
+302    Dict     0l     0c       http://192.168.56.101:84/wp-activate.php
+405    Dict     0l     0c       http://192.168.56.101:84/wp-comments-post.php
+200    Dict     0l     0c       http://192.168.56.101:84/wp-cron.php
+[INFO] Recursing into new directory: /wp-includes/ (2 left)
+200    Dict     17l    586c     http://192.168.56.101:84/rss
+302    Dict     0l     0c       http://192.168.56.101:84/dashboard
+[INFO] Sent 1000 requests.
+302    Dict     0l     0c       http://192.168.56.101:84/login
+200    Dict     41l    1615c    http://192.168.56.101:84/feed
+[INFO] Sent 2000 requests.
+[INFO] Sent 3000 requests.
+[INFO] Sent 4000 requests.
+200    Dict     0l     1557742c http://192.168.56.101:84/wp-json
+[INFO] Sent 5000 requests.
+200    Dict     97l    7409c    http://192.168.56.101:84/readme.html
+[INFO] Sent 6000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/images
+ -> Identified likely directory: wp-includes/images/ [EXCLUDED]
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/css
+ -> Identified likely directory: wp-includes/css/ 
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/js
+ -> Identified likely directory: wp-includes/js/ 
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/assets
+ -> Identified likely directory: wp-includes/assets/ [EXCLUDED]
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/fonts
+ -> Identified likely directory: wp-includes/fonts/ 
+200    Dict     0l     0c       http://192.168.56.101:84/wp-includes/fonts.php
+[INFO] Sent 7000 requests.
+500    Dict     0l     0c       http://192.168.56.101:84/wp-includes/cache.php
+500    Dict     0l     0c       http://192.168.56.101:84/wp-includes/media.php
+200    Dict     0l     0c       http://192.168.56.101:84/wp-includes/template.php
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/sitemaps
+ -> Identified likely directory: wp-includes/sitemaps/ 
+200    Dict     0l     0c       http://192.168.56.101:84/wp-includes/sitemaps.php
+[INFO] Recursing into new directory: /wp-admin/ (5 left)
+200    Dict     0l     0c       http://192.168.56.101:84/wp-includes/theme.php
+200    Dict     12l    357c     http://192.168.56.101:84/wp-includes/rss
+500    Dict     0l     0c       http://192.168.56.101:84/wp-includes/rss.php
+[INFO] Sent 8000 requests.
+500    Dict     0l     0c       http://192.168.56.101:84/wp-includes/update.php
+200    Dict     0l     0c       http://192.168.56.101:84/wp-includes/cron.php
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/PHPMailer
+ -> Identified likely directory: wp-includes/PHPMailer/ 
+200    Dict     0l     0c       http://192.168.56.101:84/wp-includes/widgets.php
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/widgets
+ -> Identified likely directory: wp-includes/widgets/ 
+200    Dict     0l     0c       http://192.168.56.101:84/wp-includes/blocks.php
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/blocks
+ -> Identified likely directory: wp-includes/blocks/ 
+500    Dict     0l     0c       http://192.168.56.101:84/wp-includes/functions.php
+200    Dict     0l     0c       http://192.168.56.101:84/wp-includes/feed.php
+200    Dict     21l    683c     http://192.168.56.101:84/wp-includes/feed
+[INFO] Sent 9000 requests.
+200    Dict     0l     0c       http://192.168.56.101:84/wp-includes/user.php
+200    Dict     0l     0c       http://192.168.56.101:84/wp-includes/plugin.php
+500    Dict     0l     0c       http://192.168.56.101:84/wp-includes/meta.php
+200    Dict     0l     0c       http://192.168.56.101:84/wp-includes/post.php
+200    Dict     0l     0c       http://192.168.56.101:84/wp-includes/category.php
+500    Dict     0l     0c       http://192.168.56.101:84/wp-includes/registration.php
+200    Dict     0l     0c       http://192.168.56.101:84/wp-includes/embed.php
+[INFO] Sent 10000 requests.
+500    Dict     0l     0c       http://192.168.56.101:84/wp-includes/session.php
+[INFO] Sent 11000 requests.
+500    Dict     0l     0c       http://192.168.56.101:84/wp-includes/locale.php
+200    Dict     0l     0c       http://192.168.56.101:84/wp-includes/comment.php
+[INFO] Sent 12000 requests.
+[INFO] Sent 13000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-admin/images
+ -> Identified likely directory: wp-admin/images/ [EXCLUDED]
+301    Dict     7l     178c     http://192.168.56.101:84/wp-admin/css
+ -> Identified likely directory: wp-admin/css/ 
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/index.php
+301    Dict     7l     178c     http://192.168.56.101:84/wp-admin/js
+ -> Identified likely directory: wp-admin/js/ 
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/admin.php
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/themes.php
+301    Dict     7l     178c     http://192.168.56.101:84/wp-admin/includes
+ -> Identified likely directory: wp-admin/includes/ 
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/plugins.php
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/media.php
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/upload.php
+[INFO] Sent 14000 requests.
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/about.php
+200    Dict     16l    1272c    http://192.168.56.101:84/wp-admin/install.php
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/tools.php
+[INFO] Recursing into new directory: /wp-content/ (10 left)
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/privacy.php
+200    Dict     12l    357c     http://192.168.56.101:84/wp-admin/rss
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/update.php
+[INFO] Sent 15000 requests.
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/export.php
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/widgets.php
+200    Dict     21l    680c     http://192.168.56.101:84/wp-admin/feed
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/profile.php
+301    Dict     7l     178c     http://192.168.56.101:84/wp-admin/user
+ -> Identified likely directory: wp-admin/user/ 
+[INFO] Sent 16000 requests.
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/import.php
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/post.php
+500    Dict     0l     0c       http://192.168.56.101:84/wp-admin/menu.php
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/users.php
+[INFO] Sent 17000 requests.
+[INFO] Sent 18000 requests.
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/edit.php
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/comment.php
+200    Dict     23l    1270c    http://192.168.56.101:84/wp-admin/upgrade.php
+[INFO] Sent 19000 requests.
+[INFO] Sent 20000 requests.
+200    Dict     0l     0c       http://192.168.56.101:84/wp-content/
+200    Dict     0l     0c       http://192.168.56.101:84/wp-content/index.php
+301    Dict     7l     178c     http://192.168.56.101:84/wp-content/uploads
+ -> Identified likely directory: wp-content/uploads/ 
+301    Dict     7l     178c     http://192.168.56.101:84/wp-content/themes
+ -> Identified likely directory: wp-content/themes/ 
+301    Dict     7l     178c     http://192.168.56.101:84/wp-content/plugins
+ -> Identified likely directory: wp-content/plugins/ 
+[INFO] Sent 21000 requests.
+[INFO] Recursing into new directory: /wp-includes/css/ (13 left)
+200    Dict     12l    357c     http://192.168.56.101:84/wp-content/rss
+[INFO] Sent 22000 requests.
+200    Dict     21l    682c     http://192.168.56.101:84/wp-content/feed
+[INFO] Sent 23000 requests.
+[INFO] Sent 24000 requests.
+[INFO] Sent 25000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-content/upgrade
+ -> Identified likely directory: wp-content/upgrade/ 
+[INFO] Sent 26000 requests.
+[INFO] Sent 27000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/css/
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/css/dist
+ -> Identified likely directory: wp-includes/css/dist/ 
+[INFO] Sent 28000 requests.
+[INFO] Recursing into new directory: /wp-includes/js/ (14 left)
+[INFO] Sent 29000 requests.
+[INFO] Sent 30000 requests.
+[INFO] Sent 31000 requests.
+[INFO] Sent 32000 requests.
+[INFO] Sent 33000 requests.
+[INFO] Sent 34000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/js/
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/js/dist
+ -> Identified likely directory: wp-includes/js/dist/ 
+[INFO] Recursing into new directory: /wp-includes/fonts/ (14 left)
+[INFO] Sent 35000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/js/tinymce
+ -> Identified likely directory: wp-includes/js/tinymce/ 
+[INFO] Sent 36000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/js/jquery
+ -> Identified likely directory: wp-includes/js/jquery/ 
+[INFO] Sent 37000 requests.
+200    Dict     3l     10231c   http://192.168.56.101:84/wp-includes/js/swfobject.js
+[INFO] Sent 38000 requests.
+[INFO] Sent 39000 requests.
+[INFO] Sent 40000 requests.
+[INFO] Sent 41000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/fonts/
+[INFO] Recursing into new directory: /wp-includes/sitemaps/ (15 left)
+[INFO] Sent 42000 requests.
+[INFO] Sent 43000 requests.
+[INFO] Sent 44000 requests.
+[INFO] Sent 45000 requests.
+[INFO] Sent 46000 requests.
+[INFO] Sent 47000 requests.
+[INFO] Sent 48000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/sitemaps/
+[INFO] Recursing into new directory: /wp-includes/PHPMailer/ (14 left)
+[INFO] Sent 49000 requests.
+[INFO] Sent 50000 requests.
+[INFO] Sent 51000 requests.
+[INFO] Sent 52000 requests.
+[INFO] Sent 53000 requests.
+[INFO] Sent 54000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/PHPMailer/
+[INFO] Sent 55000 requests.
+[INFO] Recursing into new directory: /wp-includes/widgets/ (13 left)
+[INFO] Sent 56000 requests.
+200    Dict     0l     0c       http://192.168.56.101:84/wp-includes/PHPMailer/PHPMailer.php
+[INFO] Sent 57000 requests.
+[INFO] Sent 58000 requests.
+[INFO] Sent 59000 requests.
+[INFO] Sent 60000 requests.
+[INFO] Sent 61000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/widgets/
+[INFO] Sent 62000 requests.
+[INFO] Recursing into new directory: /wp-includes/blocks/ (12 left)
+[INFO] Sent 63000 requests.
+[INFO] Sent 64000 requests.
+[INFO] Sent 65000 requests.
+[INFO] Sent 66000 requests.
+[INFO] Sent 67000 requests.
+[INFO] Sent 68000 requests.
+500    Dict     0l     0c       http://192.168.56.101:84/wp-includes/blocks/
+500    Dict     0l     0c       http://192.168.56.101:84/wp-includes/blocks/index.php
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/blocks/video
+ -> Identified likely directory: wp-includes/blocks/video/ 
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/blocks/image
+ -> Identified likely directory: wp-includes/blocks/image/ 
+500    Dict     0l     0c       http://192.168.56.101:84/wp-includes/blocks/image.php
+[INFO] Sent 69000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/blocks/search
+ -> Identified likely directory: wp-includes/blocks/search/ 
+500    Dict     0l     0c       http://192.168.56.101:84/wp-includes/blocks/search.php
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/blocks/html
+ -> Identified likely directory: wp-includes/blocks/html/ 
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/blocks/audio
+ -> Identified likely directory: wp-includes/blocks/audio/ 
+[INFO] Recursing into new directory: /wp-admin/css/ (16 left)
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/blocks/rss
+ -> Identified likely directory: wp-includes/blocks/rss/ 
+500    Dict     0l     0c       http://192.168.56.101:84/wp-includes/blocks/rss.php
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/blocks/gallery
+ -> Identified likely directory: wp-includes/blocks/gallery/ 
+500    Dict     0l     0c       http://192.168.56.101:84/wp-includes/blocks/gallery.php
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/blocks/calendar
+ -> Identified likely directory: wp-includes/blocks/calendar/ 
+500    Dict     0l     0c       http://192.168.56.101:84/wp-includes/blocks/calendar.php
+[INFO] Sent 70000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/blocks/file
+ -> Identified likely directory: wp-includes/blocks/file/ 
+500    Dict     0l     0c       http://192.168.56.101:84/wp-includes/blocks/file.php
+[INFO] Sent 71000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/blocks/embed
+ -> Identified likely directory: wp-includes/blocks/embed/ 
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/blocks/avatar
+ -> Identified likely directory: wp-includes/blocks/avatar/ 
+500    Dict     0l     0c       http://192.168.56.101:84/wp-includes/blocks/avatar.php
+[INFO] Sent 72000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/blocks/comments
+ -> Identified likely directory: wp-includes/blocks/comments/ 
+500    Dict     0l     0c       http://192.168.56.101:84/wp-includes/blocks/comments.php
+[INFO] Sent 73000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/blocks/categories
+ -> Identified likely directory: wp-includes/blocks/categories/ 
+500    Dict     0l     0c       http://192.168.56.101:84/wp-includes/blocks/categories.php
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/blocks/buttons
+ -> Identified likely directory: wp-includes/blocks/buttons/ 
+[INFO] Sent 74000 requests.
+[INFO] Sent 75000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/blocks/archives
+ -> Identified likely directory: wp-includes/blocks/archives/ 
+500    Dict     0l     0c       http://192.168.56.101:84/wp-includes/blocks/archives.php
+403    Dict     7l     162c     http://192.168.56.101:84/wp-admin/css/
+[INFO] Sent 76000 requests.
+[INFO] Recursing into new directory: /wp-admin/js/ (25 left)
+[INFO] Sent 77000 requests.
+[INFO] Sent 78000 requests.
+[INFO] Sent 79000 requests.
+[INFO] Sent 80000 requests.
+[INFO] Sent 81000 requests.
+[INFO] Sent 82000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-admin/js/
+[INFO] Recursing into new directory: /wp-admin/includes/ (24 left)
+[INFO] Sent 83000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-admin/js/widgets
+ -> Identified likely directory: wp-admin/js/widgets/ 
+[INFO] Sent 84000 requests.
+[INFO] Sent 85000 requests.
+200    Dict     281l   7849c    http://192.168.56.101:84/wp-admin/js/farbtastic.js
+[INFO] Sent 86000 requests.
+[INFO] Sent 87000 requests.
+[INFO] Sent 88000 requests.
+[INFO] Sent 89000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-admin/includes/
+500    Dict     0l     0c       http://192.168.56.101:84/wp-admin/includes/admin.php
+200    Dict     0l     0c       http://192.168.56.101:84/wp-admin/includes/media.php
+200    Dict     0l     0c       http://192.168.56.101:84/wp-admin/includes/image.php
+500    Dict     0l     0c       http://192.168.56.101:84/wp-admin/includes/template.php
+[INFO] Recursing into new directory: /wp-admin/user/ (24 left)
+200    Dict     0l     0c       http://192.168.56.101:84/wp-admin/includes/theme.php
+200    Dict     0l     0c       http://192.168.56.101:84/wp-admin/includes/misc.php
+[INFO] Sent 90000 requests.
+200    Dict     0l     0c       http://192.168.56.101:84/wp-admin/includes/dashboard.php
+200    Dict     0l     0c       http://192.168.56.101:84/wp-admin/includes/update.php
+200    Dict     0l     0c       http://192.168.56.101:84/wp-admin/includes/export.php
+200    Dict     0l     0c       http://192.168.56.101:84/wp-admin/includes/widgets.php
+[INFO] Sent 91000 requests.
+500    Dict     0l     0c       http://192.168.56.101:84/wp-admin/includes/file.php
+200    Dict     0l     0c       http://192.168.56.101:84/wp-admin/includes/user.php
+200    Dict     0l     0c       http://192.168.56.101:84/wp-admin/includes/plugin.php
+200    Dict     0l     0c       http://192.168.56.101:84/wp-admin/includes/import.php
+200    Dict     0l     0c       http://192.168.56.101:84/wp-admin/includes/post.php
+500    Dict     0l     0c       http://192.168.56.101:84/wp-admin/includes/menu.php
+[INFO] Sent 92000 requests.
+[INFO] Sent 93000 requests.
+200    Dict     0l     0c       http://192.168.56.101:84/wp-admin/includes/comment.php
+[INFO] Sent 94000 requests.
+500    Dict     0l     0c       http://192.168.56.101:84/wp-admin/includes/upgrade.php
+[INFO] Sent 95000 requests.
+[INFO] Sent 96000 requests.
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/user/
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/user/index.php
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/user/admin.php
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/user/about.php
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/user/privacy.php
+[INFO] Recursing into new directory: /wp-content/uploads/ (23 left)
+[INFO] Sent 97000 requests.
+[INFO] Sent 98000 requests.
+302    Dict     0l     0c       http://192.168.56.101:84/wp-admin/user/profile.php
+500    Dict     0l     0c       http://192.168.56.101:84/wp-admin/user/menu.php
+[INFO] Sent 99000 requests.
+[INFO] Sent 100000 requests.
+[INFO] Sent 101000 requests.
+[INFO] Sent 102000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-content/uploads/
+[INFO] Sent 103000 requests.
+[INFO] Recursing into new directory: /wp-content/themes/ (22 left)
+[INFO] Sent 104000 requests.
+[INFO] Sent 105000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-content/uploads/2018
+ -> Identified likely directory: wp-content/uploads/2018/ 
+301    Dict     7l     178c     http://192.168.56.101:84/wp-content/uploads/2020
+ -> Identified likely directory: wp-content/uploads/2020/ 
+301    Dict     7l     178c     http://192.168.56.101:84/wp-content/uploads/wc-logs
+ -> Identified likely directory: wp-content/uploads/wc-logs/ 
+[INFO] Sent 106000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-content/uploads/2019
+ -> Identified likely directory: wp-content/uploads/2019/ 
+[INFO] Sent 107000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-content/uploads/2021
+ -> Identified likely directory: wp-content/uploads/2021/ 
+[INFO] Sent 108000 requests.
+[INFO] Sent 109000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-content/uploads/2022
+ -> Identified likely directory: wp-content/uploads/2022/ 
+200    Dict     0l     0c       http://192.168.56.101:84/wp-content/themes/
+200    Dict     0l     0c       http://192.168.56.101:84/wp-content/themes/index.php
+[INFO] Sent 110000 requests.
+[INFO] Recursing into new directory: /wp-content/plugins/ (27 left)
+[INFO] Sent 111000 requests.
+[INFO] Sent 112000 requests.
+[INFO] Sent 113000 requests.
+[INFO] Sent 114000 requests.
+[INFO] Sent 115000 requests.
+[INFO] Sent 116000 requests.
+200    Dict     0l     0c       http://192.168.56.101:84/wp-content/plugins/
+200    Dict     0l     0c       http://192.168.56.101:84/wp-content/plugins/index.php
+[INFO] Sent 117000 requests.
+[INFO] Recursing into new directory: /wp-content/upgrade/ (26 left)
+[INFO] Sent 118000 requests.
+[INFO] Sent 119000 requests.
+[INFO] Sent 120000 requests.
+[INFO] Sent 121000 requests.
+[INFO] Sent 122000 requests.
+[INFO] Sent 123000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-content/upgrade/
+[INFO] Sent 124000 requests.
+[INFO] Recursing into new directory: /wp-includes/css/dist/ (25 left)
+[INFO] Sent 125000 requests.
+[INFO] Sent 126000 requests.
+[INFO] Sent 127000 requests.
+[INFO] Sent 128000 requests.
+[INFO] Sent 129000 requests.
+[INFO] Sent 130000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/css/dist/
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/css/dist/components
+ -> Identified likely directory: wp-includes/css/dist/components/ 
+[INFO] Sent 131000 requests.
+[INFO] Recursing into new directory: /wp-includes/js/dist/ (25 left)
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/css/dist/widgets
+ -> Identified likely directory: wp-includes/css/dist/widgets/ 
+[INFO] Sent 132000 requests.
+[INFO] Sent 133000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/css/dist/patterns
+ -> Identified likely directory: wp-includes/css/dist/patterns/ 
+[INFO] Sent 134000 requests.
+[INFO] Sent 135000 requests.
+[INFO] Sent 136000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/css/dist/editor
+ -> Identified likely directory: wp-includes/css/dist/editor/ 
+[INFO] Sent 137000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/js/dist/
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/js/dist/vendor
+ -> Identified likely directory: wp-includes/js/dist/vendor/ [EXCLUDED]
+[INFO] Recursing into new directory: /wp-includes/js/tinymce/ (27 left)
+[INFO] Sent 138000 requests.
+[INFO] Sent 139000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/js/dist/development
+ -> Identified likely directory: wp-includes/js/dist/development/ 
+[INFO] Sent 140000 requests.
+[INFO] Sent 141000 requests.
+[INFO] Sent 142000 requests.
+[INFO] Sent 143000 requests.
+[INFO] Sent 144000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/js/tinymce/
+200    Dict     504l   26441c   http://192.168.56.101:84/wp-includes/js/tinymce/license.txt
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/js/tinymce/themes
+ -> Identified likely directory: wp-includes/js/tinymce/themes/ 
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/js/tinymce/plugins
+ -> Identified likely directory: wp-includes/js/tinymce/plugins/ 
+[INFO] Recursing into new directory: /wp-includes/js/jquery/ (29 left)
+[INFO] Sent 145000 requests.
+[INFO] Sent 146000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/js/tinymce/skins
+ -> Identified likely directory: wp-includes/js/tinymce/skins/ 
+[INFO] Sent 147000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/js/tinymce/langs
+ -> Identified likely directory: wp-includes/js/tinymce/langs/ 
+[INFO] Sent 148000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/js/tinymce/utils
+ -> Identified likely directory: wp-includes/js/tinymce/utils/ 
+[INFO] Sent 149000 requests.
+[INFO] Sent 150000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/js/jquery/
+[INFO] Sent 151000 requests.
+[INFO] Recursing into new directory: /wp-includes/blocks/video/ (31 left)
+[INFO] Sent 152000 requests.
+200    Dict     10716l 285334c  http://192.168.56.101:84/wp-includes/js/jquery/jquery.js
+[INFO] Sent 153000 requests.
+[INFO] Sent 154000 requests.
+200    Dict     2l     87553c   http://192.168.56.101:84/wp-includes/js/jquery/jquery.min.js
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/js/jquery/ui
+ -> Identified likely directory: wp-includes/js/jquery/ui/ 
+[INFO] Sent 155000 requests.
+[INFO] Sent 156000 requests.
+[INFO] Sent 157000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/blocks/video/
+[INFO] Sent 158000 requests.
+[INFO] Recursing into new directory: /wp-includes/blocks/image/ (31 left)
+[INFO] Sent 159000 requests.
+[INFO] Sent 160000 requests.
+[INFO] Sent 161000 requests.
+[INFO] Sent 162000 requests.
+[INFO] Sent 163000 requests.
+[INFO] Sent 164000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/blocks/image/
+[INFO] Sent 165000 requests.
+[INFO] Recursing into new directory: /wp-includes/blocks/search/ (30 left)
+[INFO] Sent 166000 requests.
+[INFO] Sent 167000 requests.
+[INFO] Sent 168000 requests.
+[INFO] Sent 169000 requests.
+[INFO] Sent 170000 requests.
+[INFO] Sent 171000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/blocks/search/
+[INFO] Sent 172000 requests.
+[INFO] Recursing into new directory: /wp-includes/blocks/html/ (29 left)
+[INFO] Sent 173000 requests.
+[INFO] Sent 174000 requests.
+[INFO] Sent 175000 requests.
+[INFO] Sent 176000 requests.
+[INFO] Sent 177000 requests.
+[INFO] Sent 178000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/blocks/html/
+[INFO] Sent 179000 requests.
+[INFO] Recursing into new directory: /wp-includes/blocks/audio/ (28 left)
+[INFO] Sent 180000 requests.
+[INFO] Sent 181000 requests.
+[INFO] Sent 182000 requests.
+[INFO] Sent 183000 requests.
+[INFO] Sent 184000 requests.
+[INFO] Sent 185000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/blocks/audio/
+[INFO] Recursing into new directory: /wp-includes/blocks/rss/ (27 left)
+[INFO] Sent 186000 requests.
+[INFO] Sent 187000 requests.
+[INFO] Sent 188000 requests.
+[INFO] Sent 189000 requests.
+[INFO] Sent 190000 requests.
+[INFO] Sent 191000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/blocks/rss/
+[INFO] Sent 192000 requests.
+[INFO] Recursing into new directory: /wp-includes/blocks/gallery/ (26 left)
+[INFO] Sent 193000 requests.
+[INFO] Sent 194000 requests.
+[INFO] Sent 195000 requests.
+[INFO] Sent 196000 requests.
+[INFO] Sent 197000 requests.
+[INFO] Sent 198000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/blocks/gallery/
+[INFO] Sent 199000 requests.
+[INFO] Recursing into new directory: /wp-includes/blocks/calendar/ (25 left)
+[INFO] Sent 200000 requests.
+[INFO] Sent 201000 requests.
+[INFO] Sent 202000 requests.
+[INFO] Sent 203000 requests.
+[INFO] Sent 204000 requests.
+[INFO] Sent 205000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/blocks/calendar/
+[INFO] Sent 206000 requests.
+[INFO] Recursing into new directory: /wp-includes/blocks/file/ (24 left)
+[INFO] Sent 207000 requests.
+[INFO] Sent 208000 requests.
+[INFO] Sent 209000 requests.
+[INFO] Sent 210000 requests.
+[INFO] Sent 211000 requests.
+[INFO] Sent 212000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/blocks/file/
+[INFO] Sent 213000 requests.
+[INFO] Recursing into new directory: /wp-includes/blocks/embed/ (23 left)
+[INFO] Sent 214000 requests.
+[INFO] Sent 215000 requests.
+[INFO] Sent 216000 requests.
+[INFO] Sent 217000 requests.
+[INFO] Sent 218000 requests.
+[INFO] Sent 219000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/blocks/embed/
+[INFO] Sent 220000 requests.
+[INFO] Recursing into new directory: /wp-includes/blocks/avatar/ (22 left)
+[INFO] Sent 221000 requests.
+[INFO] Sent 222000 requests.
+[INFO] Sent 223000 requests.
+[INFO] Sent 224000 requests.
+[INFO] Sent 225000 requests.
+[INFO] Sent 226000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/blocks/avatar/
+[INFO] Sent 227000 requests.
+[INFO] Recursing into new directory: /wp-includes/blocks/comments/ (21 left)
+[INFO] Sent 228000 requests.
+[INFO] Sent 229000 requests.
+[INFO] Sent 230000 requests.
+[INFO] Sent 231000 requests.
+[INFO] Sent 232000 requests.
+[INFO] Sent 233000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/blocks/comments/
+[INFO] Sent 234000 requests.
+[INFO] Recursing into new directory: /wp-includes/blocks/categories/ (20 left)
+[INFO] Sent 235000 requests.
+[INFO] Sent 236000 requests.
+[INFO] Sent 237000 requests.
+[INFO] Sent 238000 requests.
+[INFO] Sent 239000 requests.
+[INFO] Sent 240000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/blocks/categories/
+[INFO] Recursing into new directory: /wp-includes/blocks/buttons/ (19 left)
+[INFO] Sent 241000 requests.
+[INFO] Sent 242000 requests.
+[INFO] Sent 243000 requests.
+[INFO] Sent 244000 requests.
+[INFO] Sent 245000 requests.
+[INFO] Sent 246000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/blocks/buttons/
+[INFO] Sent 247000 requests.
+[INFO] Recursing into new directory: /wp-includes/blocks/archives/ (18 left)
+[INFO] Sent 248000 requests.
+[INFO] Sent 249000 requests.
+[INFO] Sent 250000 requests.
+[INFO] Sent 251000 requests.
+[INFO] Sent 252000 requests.
+[INFO] Sent 253000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/blocks/archives/
+[INFO] Sent 254000 requests.
+[INFO] Recursing into new directory: /wp-admin/js/widgets/ (17 left)
+[INFO] Sent 255000 requests.
+[INFO] Sent 256000 requests.
+[INFO] Sent 257000 requests.
+[INFO] Sent 258000 requests.
+[INFO] Sent 259000 requests.
+[INFO] Sent 260000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-admin/js/widgets/
+[INFO] Sent 261000 requests.
+[INFO] Recursing into new directory: /wp-content/uploads/2018/ (16 left)
+[INFO] Sent 262000 requests.
+[INFO] Sent 263000 requests.
+[INFO] Sent 264000 requests.
+[INFO] Sent 265000 requests.
+[INFO] Sent 266000 requests.
+[INFO] Sent 267000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-content/uploads/2018/
+[INFO] Sent 268000 requests.
+[INFO] Recursing into new directory: /wp-content/uploads/2020/ (15 left)
+[INFO] Sent 269000 requests.
+[INFO] Sent 270000 requests.
+[INFO] Sent 271000 requests.
+[INFO] Sent 272000 requests.
+[INFO] Sent 273000 requests.
+[INFO] Sent 274000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-content/uploads/2018/12
+ -> Identified likely directory: wp-content/uploads/2018/12/ 
+301    Dict     7l     178c     http://192.168.56.101:84/wp-content/uploads/2018/11
+ -> Identified likely directory: wp-content/uploads/2018/11/ 
+403    Dict     7l     162c     http://192.168.56.101:84/wp-content/uploads/2020/
+[INFO] Sent 275000 requests.
+[INFO] Recursing into new directory: /wp-content/uploads/wc-logs/ (16 left)
+[INFO] Sent 276000 requests.
+[INFO] Sent 277000 requests.
+[INFO] Sent 278000 requests.
+[INFO] Sent 279000 requests.
+[INFO] Sent 280000 requests.
+[INFO] Sent 281000 requests.
+200    Dict     0l     0c       http://192.168.56.101:84/wp-content/uploads/wc-logs/
+[INFO] Sent 282000 requests.
+[INFO] Recursing into new directory: /wp-content/uploads/2019/ (15 left)
+[INFO] Sent 283000 requests.
+200    Dict     0l     0c       http://192.168.56.101:84/wp-content/uploads/wc-logs/index.html
+[INFO] Sent 284000 requests.
+[INFO] Sent 285000 requests.
+[INFO] Sent 286000 requests.
+[INFO] Sent 287000 requests.
+[INFO] Sent 288000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-content/uploads/2019/
+[INFO] Sent 289000 requests.
+[INFO] Recursing into new directory: /wp-content/uploads/2021/ (14 left)
+[INFO] Sent 290000 requests.
+[INFO] Sent 291000 requests.
+[INFO] Sent 292000 requests.
+[INFO] Sent 293000 requests.
+[INFO] Sent 294000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-content/uploads/2021/
+[INFO] Sent 295000 requests.
+[INFO] Recursing into new directory: /wp-content/uploads/2022/ (13 left)
+[INFO] Sent 296000 requests.
+[INFO] Sent 297000 requests.
+[INFO] Sent 298000 requests.
+[INFO] Sent 299000 requests.
+[INFO] Sent 300000 requests.
+[INFO] Sent 301000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-content/uploads/2022/
+[INFO] Sent 302000 requests.
+[INFO] Recursing into new directory: /wp-includes/css/dist/components/ (12 left)
+[INFO] Sent 303000 requests.
+[INFO] Sent 304000 requests.
+[INFO] Sent 305000 requests.
+[INFO] Sent 306000 requests.
+[INFO] Sent 307000 requests.
+[INFO] Sent 308000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-content/uploads/2022/12
+ -> Identified likely directory: wp-content/uploads/2022/12/ 
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/css/dist/components/
+[INFO] Sent 309000 requests.
+[INFO] Recursing into new directory: /wp-includes/css/dist/widgets/ (12 left)
+[INFO] Sent 310000 requests.
+[INFO] Sent 311000 requests.
+[INFO] Sent 312000 requests.
+[INFO] Sent 313000 requests.
+[INFO] Sent 314000 requests.
+[INFO] Sent 315000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/css/dist/widgets/
+[INFO] Sent 316000 requests.
+[INFO] Recursing into new directory: /wp-includes/css/dist/patterns/ (11 left)
+[INFO] Sent 317000 requests.
+[INFO] Sent 318000 requests.
+[INFO] Sent 319000 requests.
+[INFO] Sent 320000 requests.
+[INFO] Sent 321000 requests.
+[INFO] Sent 322000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/css/dist/patterns/
+[INFO] Sent 323000 requests.
+[INFO] Recursing into new directory: /wp-includes/css/dist/editor/ (10 left)
+[INFO] Sent 324000 requests.
+[INFO] Sent 325000 requests.
+[INFO] Sent 326000 requests.
+[INFO] Sent 327000 requests.
+[INFO] Sent 328000 requests.
+[INFO] Sent 329000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/css/dist/editor/
+[INFO] Sent 330000 requests.
+[INFO] Recursing into new directory: /wp-includes/js/dist/development/ (9 left)
+[INFO] Sent 331000 requests.
+[INFO] Sent 332000 requests.
+[INFO] Sent 333000 requests.
+[INFO] Sent 334000 requests.
+[INFO] Sent 335000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/js/dist/development/
+[INFO] Sent 336000 requests.
+[INFO] Sent 337000 requests.
+[INFO] Recursing into new directory: /wp-includes/js/tinymce/themes/ (8 left)
+[INFO] Sent 338000 requests.
+[INFO] Sent 339000 requests.
+[INFO] Sent 340000 requests.
+[INFO] Sent 341000 requests.
+[INFO] Sent 342000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/js/tinymce/themes/
+[INFO] Sent 343000 requests.
+[INFO] Recursing into new directory: /wp-includes/js/tinymce/plugins/ (7 left)
+[INFO] Sent 344000 requests.
+[INFO] Sent 345000 requests.
+[INFO] Sent 346000 requests.
+[INFO] Sent 347000 requests.
+[INFO] Sent 348000 requests.
+[INFO] Sent 349000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/js/tinymce/plugins/
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/js/tinymce/plugins/media
+ -> Identified likely directory: wp-includes/js/tinymce/plugins/media/ [EXCLUDED]
+[INFO] Sent 350000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/js/tinymce/plugins/image
+ -> Identified likely directory: wp-includes/js/tinymce/plugins/image/ 
+[INFO] Recursing into new directory: /wp-includes/js/tinymce/skins/ (7 left)
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/js/tinymce/plugins/wordpress
+ -> Identified likely directory: wp-includes/js/tinymce/plugins/wordpress/ 
+[INFO] Sent 351000 requests.
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/js/tinymce/plugins/hr
+ -> Identified likely directory: wp-includes/js/tinymce/plugins/hr/ 
+[INFO] Sent 352000 requests.
+[INFO] Sent 353000 requests.
+[INFO] Sent 354000 requests.
+[INFO] Sent 355000 requests.
+[INFO] Sent 356000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/js/tinymce/skins/
+[INFO] Sent 357000 requests.
+[INFO] Recursing into new directory: /wp-includes/js/tinymce/langs/ (8 left)
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/js/tinymce/skins/wordpress
+ -> Identified likely directory: wp-includes/js/tinymce/skins/wordpress/ 
+[INFO] Sent 358000 requests.
+[INFO] Sent 359000 requests.
+[INFO] Sent 360000 requests.
+[INFO] Sent 361000 requests.
+[INFO] Sent 362000 requests.
+[INFO] Sent 363000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/js/tinymce/langs/
+[INFO] Sent 364000 requests.
+[INFO] Recursing into new directory: /wp-includes/js/tinymce/utils/ (8 left)
+[INFO] Sent 365000 requests.
+[INFO] Sent 366000 requests.
+[INFO] Sent 367000 requests.
+[INFO] Sent 368000 requests.
+[INFO] Sent 369000 requests.
+[INFO] Sent 370000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/js/tinymce/utils/
+[INFO] Sent 371000 requests.
+[INFO] Recursing into new directory: /wp-includes/js/jquery/ui/ (7 left)
+[INFO] Sent 372000 requests.
+[INFO] Sent 373000 requests.
+[INFO] Sent 374000 requests.
+[INFO] Sent 375000 requests.
+[INFO] Sent 376000 requests.
+[INFO] Sent 377000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/js/jquery/ui/
+[INFO] Sent 378000 requests.
+[INFO] Recursing into new directory: /wp-content/uploads/2018/12/ (6 left)
+[INFO] Sent 379000 requests.
+[INFO] Sent 380000 requests.
+[INFO] Sent 381000 requests.
+[INFO] Sent 382000 requests.
+[INFO] Sent 383000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-content/uploads/2018/12/
+[INFO] Sent 384000 requests.
+[INFO] Sent 385000 requests.
+[INFO] Recursing into new directory: /wp-content/uploads/2018/11/ (5 left)
+[INFO] Sent 386000 requests.
+[INFO] Sent 387000 requests.
+[INFO] Sent 388000 requests.
+[INFO] Sent 389000 requests.
+[INFO] Sent 390000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-content/uploads/2018/11/
+[INFO] Sent 391000 requests.
+[INFO] Sent 392000 requests.
+[INFO] Recursing into new directory: /wp-content/uploads/2022/12/ (4 left)
+[INFO] Sent 393000 requests.
+[INFO] Sent 394000 requests.
+[INFO] Sent 395000 requests.
+[INFO] Sent 396000 requests.
+[INFO] Sent 397000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-content/uploads/2022/12/
+[INFO] Sent 398000 requests.
+[INFO] Recursing into new directory: /wp-includes/js/tinymce/plugins/image/ (3 left)
+[INFO] Sent 399000 requests.
+[INFO] Sent 400000 requests.
+[INFO] Sent 401000 requests.
+[INFO] Sent 402000 requests.
+[INFO] Sent 403000 requests.
+[INFO] Sent 404000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/js/tinymce/plugins/image/
+[INFO] Sent 405000 requests.
+[INFO] Recursing into new directory: /wp-includes/js/tinymce/plugins/wordpress/ (2 left)
+[INFO] Sent 406000 requests.
+[INFO] Sent 407000 requests.
+[INFO] Sent 408000 requests.
+[INFO] Sent 409000 requests.
+[INFO] Sent 410000 requests.
+[INFO] Sent 411000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/js/tinymce/plugins/wordpress/
+[INFO] Sent 412000 requests.
+[INFO] Recursing into new directory: /wp-includes/js/tinymce/plugins/hr/ (1 left)
+[INFO] Sent 413000 requests.
+[INFO] Sent 414000 requests.
+[INFO] Sent 415000 requests.
+[INFO] Sent 416000 requests.
+[INFO] Sent 417000 requests.
+[INFO] Sent 418000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/js/tinymce/plugins/hr/
+[INFO] Sent 419000 requests.
+[INFO] Recursing into new directory: /wp-includes/js/tinymce/skins/wordpress/ (0 left)
+[INFO] Sent 420000 requests.
+[INFO] Sent 421000 requests.
+[INFO] Sent 422000 requests.
+[INFO] Sent 423000 requests.
+[INFO] Sent 424000 requests.
+[INFO] Sent 425000 requests.
+403    Dict     7l     162c     http://192.168.56.101:84/wp-includes/js/tinymce/skins/wordpress/
+301    Dict     7l     178c     http://192.168.56.101:84/wp-includes/js/tinymce/skins/wordpress/images
+ -> Identified likely directory: wp-includes/js/tinymce/skins/wordpress/images/ [EXCLUDED]
+[INFO] Sent 426000 requests.
+[INFO] Sent 427000 requests.
+[INFO] Sent 428000 requests.
+[INFO] Sent 429000 requests.
+[INFO] Sent 430000 requests.
+[INFO] Sent 431000 requests.
+
+==== Summary ====
+Finished enumerating in 31229.99 seconds.
+Totals: 247 / 431991
+
+Breakdown by request origin:
+- Dict: 247 / 431991

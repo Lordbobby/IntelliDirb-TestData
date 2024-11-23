@@ -1,0 +1,90 @@
+[Warning] 'tarty1' font is not printable in this environment.
+
+[INFO] Loaded wordlist file with 1829 words.
+[INFO] Beginning enumeration...
+200    Dict     271l   13733c   http://192.168.56.101:8888/
+301    Dict     13l    818c     http://192.168.56.101:8888/css
+ -> Identified likely directory: css/ 
+301    Dict     13l    818c     http://192.168.56.101:8888/cgi-bin
+ -> Identified likely directory: cgi-bin/ 
+301    Dict     13l    818c     http://192.168.56.101:8888/img
+ -> Identified likely directory: img/ 
+200    Dict     198l   6520c    http://192.168.56.101:8888/upload.html
+200    Dict     35l    1770c    http://192.168.56.101:8888/upload.php
+301    Dict     13l    818c     http://192.168.56.101:8888/docs
+ -> Identified likely directory: docs/ 
+200    Dict     925l   83252c   http://192.168.56.101:8888/phpinfo.php
+[INFO] Sent 1000 requests.
+[INFO] Sent 2000 requests.
+[INFO] Sent 3000 requests.
+[INFO] Sent 4000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8888/protected
+ -> Identified likely directory: protected/ [EXCLUDED]
+200    Dict     271l   13733c   http://192.168.56.101:8888/index.html
+[INFO] Recursing into new directory: /css/ (3 left)
+[INFO] Sent 5000 requests.
+[INFO] Sent 6000 requests.
+[INFO] Sent 7000 requests.
+[INFO] Sent 8000 requests.
+[INFO] Sent 9000 requests.
+[INFO] Sent 10000 requests.
+[INFO] Sent 11000 requests.
+[INFO] Sent 12000 requests.
+[INFO] Sent 13000 requests.
+[INFO] Recursing into new directory: /cgi-bin/ (2 left)
+[INFO] Sent 14000 requests.
+[INFO] Sent 15000 requests.
+[INFO] Sent 16000 requests.
+[INFO] Sent 17000 requests.
+[INFO] Sent 18000 requests.
+[INFO] Sent 19000 requests.
+[INFO] Recursing into new directory: /img/ (1 left)
+[INFO] Sent 20000 requests.
+[INFO] Sent 21000 requests.
+[INFO] Sent 22000 requests.
+[INFO] Sent 23000 requests.
+[INFO] Sent 24000 requests.
+[INFO] Sent 25000 requests.
+[INFO] Sent 26000 requests.
+[INFO] Sent 27000 requests.
+[INFO] Recursing into new directory: /docs/ (0 left)
+[INFO] Sent 28000 requests.
+200    Dict     130l   5753c    http://192.168.56.101:8888/docs/
+301    Dict     13l    818c     http://192.168.56.101:8888/docs/css
+ -> Identified likely directory: docs/css/ 
+301    Dict     13l    818c     http://192.168.56.101:8888/docs/img
+ -> Identified likely directory: docs/img/ 
+200    Dict     157l   7716c    http://192.168.56.101:8888/docs/admin.html
+200    Dict     197l   10210c   http://192.168.56.101:8888/docs/config.html
+200    Dict     270l   10829c   http://192.168.56.101:8888/docs/install.html
+[INFO] Sent 29000 requests.
+[INFO] Sent 30000 requests.
+[INFO] Sent 31000 requests.
+200    Dict     130l   5753c    http://192.168.56.101:8888/docs/index.html
+[INFO] Sent 32000 requests.
+[INFO] Sent 33000 requests.
+[INFO] Sent 34000 requests.
+200    Dict     172l   9625c    http://192.168.56.101:8888/docs/security.html
+[INFO] Recursing into new directory: /docs/css/ (1 left)
+[INFO] Sent 35000 requests.
+[INFO] Sent 36000 requests.
+[INFO] Sent 37000 requests.
+[INFO] Sent 38000 requests.
+[INFO] Sent 39000 requests.
+[INFO] Sent 40000 requests.
+[INFO] Sent 41000 requests.
+[INFO] Recursing into new directory: /docs/img/ (0 left)
+[INFO] Sent 42000 requests.
+[INFO] Sent 43000 requests.
+[INFO] Sent 44000 requests.
+[INFO] Sent 45000 requests.
+[INFO] Sent 46000 requests.
+[INFO] Sent 47000 requests.
+[INFO] Sent 48000 requests.
+
+==== Summary ====
+Finished enumerating in 858.50 seconds.
+Totals: 18 / 47999
+
+Breakdown by request origin:
+- Dict: 18 / 47999

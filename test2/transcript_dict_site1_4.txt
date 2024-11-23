@@ -1,0 +1,123 @@
+[Warning] 'tarty1' font is not printable in this environment.
+
+[INFO] Loaded wordlist file with 20476 words.
+[INFO] Beginning enumeration...
+[INFO] Sent 1000 requests.
+[INFO] Sent 2000 requests.
+[INFO] Sent 3000 requests.
+[INFO] Sent 4000 requests.
+[INFO] Sent 5000 requests.
+[INFO] Sent 6000 requests.
+[INFO] Sent 7000 requests.
+[INFO] Sent 8000 requests.
+[INFO] Sent 9000 requests.
+301    Dict     9l     317c     http://192.168.56.101:81/adm
+[INFO] Sent 10000 requests.
+[INFO] Sent 11000 requests.
+[INFO] Sent 12000 requests.
+[INFO] Sent 13000 requests.
+[INFO] Sent 14000 requests.
+[INFO] Sent 15000 requests.
+301    Dict     9l     320c     http://192.168.56.101:81/assets
+[INFO] Sent 16000 requests.
+301    Dict     9l     317c     http://192.168.56.101:81/bin
+[INFO] Sent 17000 requests.
+301    Dict     9l     319c     http://192.168.56.101:81/cache
+[INFO] Sent 18000 requests.
+[INFO] Sent 19000 requests.
+[INFO] Sent 20000 requests.
+[INFO] Sent 21000 requests.
+200    Dict     0l     0c       http://192.168.56.101:81/common.php
+301    Dict     9l     320c     http://192.168.56.101:81/config
+200    Dict     0l     0c       http://192.168.56.101:81/config.php
+[INFO] Sent 22000 requests.
+[INFO] Sent 23000 requests.
+[INFO] Sent 24000 requests.
+400    Dict     0l     68c      http://192.168.56.101:81/cron.php
+[INFO] Sent 25000 requests.
+[INFO] Sent 26000 requests.
+301    Dict     9l     318c     http://192.168.56.101:81/docs
+301    Dict     9l     322c     http://192.168.56.101:81/download
+[INFO] Sent 27000 requests.
+[INFO] Sent 28000 requests.
+[INFO] Sent 29000 requests.
+[INFO] Sent 30000 requests.
+[INFO] Sent 31000 requests.
+301    Dict     9l     317c     http://192.168.56.101:81/ext
+301    Dict     11l    462c     http://192.168.56.101:81/faq.php
+301    Dict     11l    298c     http://192.168.56.101:81/feed.php
+301    Dict     9l     319c     http://192.168.56.101:81/files
+[INFO] Sent 32000 requests.
+[INFO] Sent 33000 requests.
+[INFO] Sent 34000 requests.
+[INFO] Sent 35000 requests.
+[INFO] Sent 36000 requests.
+[INFO] Sent 37000 requests.
+[INFO] Sent 38000 requests.
+301    Dict     9l     320c     http://192.168.56.101:81/images
+[INFO] Sent 39000 requests.
+301    Dict     9l     322c     http://192.168.56.101:81/includes
+200    Dict     321l   13248c   http://192.168.56.101:81/index.php
+[INFO] Sent 40000 requests.
+[INFO] Sent 41000 requests.
+301    Dict     9l     324c     http://192.168.56.101:81/javascript
+[INFO] Sent 42000 requests.
+[INFO] Sent 43000 requests.
+301    Dict     9l     322c     http://192.168.56.101:81/language
+[INFO] Sent 44000 requests.
+[INFO] Sent 45000 requests.
+[INFO] Sent 46000 requests.
+[INFO] Sent 47000 requests.
+200    Dict     280l   10267c   http://192.168.56.101:81/mcp.php
+200    Dict     280l   10297c   http://192.168.56.101:81/memberlist.php
+[INFO] Sent 48000 requests.
+[INFO] Sent 49000 requests.
+[INFO] Sent 50000 requests.
+[INFO] Sent 51000 requests.
+[INFO] Sent 52000 requests.
+[INFO] Sent 53000 requests.
+[INFO] Sent 54000 requests.
+[INFO] Sent 55000 requests.
+[INFO] Sent 56000 requests.
+301    Dict     9l     319c     http://192.168.56.101:81/phpbb
+[INFO] Sent 57000 requests.
+[INFO] Sent 58000 requests.
+200    Dict     233l   8797c    http://192.168.56.101:81/posting.php
+[INFO] Sent 59000 requests.
+[INFO] Sent 60000 requests.
+[INFO] Sent 61000 requests.
+[INFO] Sent 62000 requests.
+301    Dict     11l    334c     http://192.168.56.101:81/report.php
+[INFO] Sent 63000 requests.
+[INFO] Sent 64000 requests.
+[INFO] Sent 65000 requests.
+200    Dict     305l   11733c   http://192.168.56.101:81/search.php
+403    Dict     9l     279c     http://192.168.56.101:81/server-status
+[INFO] Sent 66000 requests.
+[INFO] Sent 67000 requests.
+[INFO] Sent 68000 requests.
+[INFO] Sent 69000 requests.
+301    Dict     9l     319c     http://192.168.56.101:81/store
+301    Dict     9l     320c     http://192.168.56.101:81/styles
+[INFO] Sent 70000 requests.
+[INFO] Sent 71000 requests.
+[INFO] Sent 72000 requests.
+[INFO] Sent 73000 requests.
+[INFO] Sent 74000 requests.
+[INFO] Sent 75000 requests.
+[INFO] Sent 76000 requests.
+200    Dict     280l   10271c   http://192.168.56.101:81/ucp.php
+[INFO] Sent 77000 requests.
+[INFO] Sent 78000 requests.
+301    Dict     9l     320c     http://192.168.56.101:81/vendor
+200    Dict     281l   11267c   http://192.168.56.101:81/viewonline.php
+[INFO] Sent 79000 requests.
+[INFO] Sent 80000 requests.
+[INFO] Sent 81000 requests.
+
+==== Summary ====
+Finished enumerating in 1319.86 seconds.
+Totals: 31 / 81902
+
+Breakdown by request origin:
+- Dict: 31 / 81902

@@ -1,0 +1,3 @@
+Mode,Total Time,Total Requests,Total Valid Responses,Dict Requests,Dict Valid Responses,Link Requests,Link Valid Responses,Href Requests,Href Valid Responses,Service Requests,Service Valid Responses,Redirect Requests,Redirect Valid Responses,Index Requests,Index Valid Responses,Src Requests,Src Valid Responses,Script Requests,Script Valid Responses
+all,630.632883596,9900,1464,6857.0,25.0,856.8,688.6,5.0,0.0,1958.8,747.8,0.2,0.2,0.0,0.0,0.0,0.0,222.8,3.0
+dict,466.046319024,6857,25,6857.0,25.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

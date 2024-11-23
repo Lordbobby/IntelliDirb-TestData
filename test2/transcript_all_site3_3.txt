@@ -1,0 +1,145 @@
+[Warning] 'tarty1' font is not printable in this environment.
+
+[INFO] Loaded wordlist file with 20476 words.
+[INFO] Beginning enumeration...
+[INFO] Sent 1000 requests.
+[INFO] Sent 2000 requests.
+[INFO] Sent 3000 requests.
+[INFO] Sent 4000 requests.
+[INFO] Sent 5000 requests.
+[INFO] Sent 6000 requests.
+[INFO] Sent 7000 requests.
+[INFO] Sent 8000 requests.
+[INFO] Sent 9000 requests.
+[INFO] Sent 10000 requests.
+[INFO] Sent 11000 requests.
+[INFO] Sent 12000 requests.
+301    Dict     9l     320c     http://192.168.56.101:83/assets
+[INFO] Identified service apache from response.
+200    Link     17l    1119c    http://192.168.56.101:83/assets/
+200    Src      0l     225c     http://192.168.56.101:83/icons/folder.gif
+[INFO] Sent 13000 requests.
+[INFO] Sent 14000 requests.
+200    Src      0l     148c     http://192.168.56.101:83/icons/blank.gif
+200    Index    21l    1994c    http://192.168.56.101:83/assets/img/
+200    Index    409l   29386c   http://192.168.56.101:83/
+200    Src      0l     216c     http://192.168.56.101:83/icons/back.gif
+200    Index    19l    1578c    http://192.168.56.101:83/assets/svg/
+200    Service  409l   29386c   http://192.168.56.101:83/index.html
+301    Service  9l     320c     http://192.168.56.101:83/manual
+403    Service  9l     279c     http://192.168.56.101:83/server-status
+200    Index    21l    1984c    http://192.168.56.101:83/assets/img/background/
+200    Index    37l    10803c   http://192.168.56.101:83/assets/img/appstore.jpg
+200    Index    38l    10872c   http://192.168.56.101:83/assets/img/googleplay.jpg
+200    Index    219l   70757c   http://192.168.56.101:83/assets/img/image-89-1.jpg
+200    Index    717l   207711c  http://192.168.56.101:83/assets/img/image-89-2.jpg
+200    Src      1l     309c     http://192.168.56.101:83/icons/image2.gif
+200    Index    791l   202169c  http://192.168.56.101:83/assets/img/image-100.png
+200    Index    0l     206c     http://192.168.56.101:83/assets/svg/video-icon.svg
+200    Index    3l     112c     http://192.168.56.101:83/assets/svg/play.svg
+200    Href     0l     187286c  http://192.168.56.101:83/css/slides.min.css
+200    Index    0l     456c     http://192.168.56.101:83/assets/svg/video-icon-dark.svg
+200    Index    71l    15115c   http://192.168.56.101:83/assets/svg/icons.svg
+200    Link     16l    944c     http://192.168.56.101:83/manual/
+200    Index    220l   78232c   http://192.168.56.101:83/assets/img/background/img-14.jpg
+200    Index    939l   247130c  http://192.168.56.101:83/assets/img/background/img-95.jpg
+200    Index    536l   117962c  http://192.168.56.101:83/assets/img/background/img-85.jpg
+200    Index    936l   237465c  http://192.168.56.101:83/assets/img/background/img-09.jpg
+200    Index    791l   235780c  http://192.168.56.101:83/assets/img/background/img-89.jpg
+200    Index    589l   144769c  http://192.168.56.101:83/assets/img/background/img-15.jpg
+200    Index    1l     64c      http://192.168.56.101:83/manual/manual.url
+200    Src      1l     245c     http://192.168.56.101:83/icons/unknown.gif
+[INFO] Sent 15000 requests.
+[INFO] Sent 16000 requests.
+[INFO] Sent 17000 requests.
+[INFO] Sent 18000 requests.
+[INFO] Sent 19000 requests.
+[INFO] Sent 20000 requests.
+[INFO] Sent 21000 requests.
+[INFO] Sent 22000 requests.
+[INFO] Sent 23000 requests.
+301    Dict     9l     317c     http://192.168.56.101:83/css
+[INFO] Sent 24000 requests.
+200    Link     18l    1347c    http://192.168.56.101:83/css/
+[INFO] Sent 25000 requests.
+200    Index    11l    19777c   http://192.168.56.101:83/css/swiper.min.css
+200    Src      1l     229c     http://192.168.56.101:83/icons/text.gif
+200    Index    12850l 245567c  http://192.168.56.101:83/css/slides.css
+[INFO] Sent 26000 requests.
+[INFO] Sent 27000 requests.
+[INFO] Sent 28000 requests.
+[INFO] Sent 29000 requests.
+[INFO] Sent 30000 requests.
+[INFO] Sent 31000 requests.
+[INFO] Sent 32000 requests.
+[INFO] Sent 33000 requests.
+[INFO] Sent 34000 requests.
+[INFO] Sent 35000 requests.
+[INFO] Sent 36000 requests.
+[INFO] Sent 37000 requests.
+[INFO] Sent 38000 requests.
+[INFO] Sent 39000 requests.
+[INFO] Sent 40000 requests.
+[INFO] Sent 41000 requests.
+301    Dict     9l     324c     http://192.168.56.101:83/javascript
+[INFO] Sent 42000 requests.
+301    Dict     9l     316c     http://192.168.56.101:83/js
+[INFO] Sent 43000 requests.
+403    Link     9l     279c     http://192.168.56.101:83/javascript/
+200    Link     20l    1749c    http://192.168.56.101:83/js/
+[INFO] Sent 44000 requests.
+[INFO] Sent 45000 requests.
+200    Index    2162l  64461c   http://192.168.56.101:83/js/slides.js
+200    Index    2l     13238c   http://192.168.56.101:83/js/soundcloud.min.js
+200    Index    67l    116765c  http://192.168.56.101:83/js/plugins.js
+200    Index    4l     144123c  http://192.168.56.101:83/js/slides.min.js
+200    Index    72l    145600c  http://192.168.56.101:83/js/swiper.min.js
+[INFO] Sent 46000 requests.
+[INFO] Sent 47000 requests.
+[INFO] Sent 48000 requests.
+[INFO] Sent 49000 requests.
+[INFO] Sent 50000 requests.
+[INFO] Sent 51000 requests.
+[INFO] Sent 52000 requests.
+[INFO] Sent 53000 requests.
+[INFO] Sent 54000 requests.
+[INFO] Sent 55000 requests.
+[INFO] Sent 56000 requests.
+[INFO] Sent 57000 requests.
+[INFO] Sent 58000 requests.
+[INFO] Sent 59000 requests.
+[INFO] Sent 60000 requests.
+[INFO] Sent 61000 requests.
+[INFO] Sent 62000 requests.
+[INFO] Sent 63000 requests.
+[INFO] Sent 64000 requests.
+[INFO] Sent 65000 requests.
+[INFO] Sent 66000 requests.
+[INFO] Sent 67000 requests.
+[INFO] Sent 68000 requests.
+[INFO] Sent 69000 requests.
+[INFO] Sent 70000 requests.
+[INFO] Sent 71000 requests.
+[INFO] Sent 72000 requests.
+[INFO] Sent 73000 requests.
+[INFO] Sent 74000 requests.
+[INFO] Sent 75000 requests.
+[INFO] Sent 76000 requests.
+[INFO] Sent 77000 requests.
+[INFO] Sent 78000 requests.
+[INFO] Sent 79000 requests.
+[INFO] Sent 80000 requests.
+[INFO] Sent 81000 requests.
+
+==== Summary ====
+Finished enumerating in 1260.95 seconds.
+Totals: 46 / 81992
+
+Breakdown by request origin:
+- Dict:    4  / 81807
+- Link:    5  / 5
+- Index:   27 / 27
+- Src:     6  / 14
+- Service: 3  / 115
+- Href:    1  / 3
+- Script:  0  / 21

@@ -1,0 +1,1348 @@
+[Warning] 'tarty1' font is not printable in this environment.
+
+[INFO] Loaded wordlist file with 1829 words.
+[INFO] Beginning enumeration...
+[INFO] Sent 1000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/images
+ -> Identified likely directory: images/ [EXCLUDED]
+200    Dict     29l    764c     http://192.168.56.101:8889/robots.txt
+200    Dict     967l   47771c   http://192.168.56.101:8889/
+200    Dict     967l   47780c   http://192.168.56.101:8889/index.php
+200    Dict     50l    2974c    http://192.168.56.101:8889/web.config.txt
+301    Dict     13l    818c     http://192.168.56.101:8889/templates
+ -> Identified likely directory: templates/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/cache
+ -> Identified likely directory: cache/ [EXCLUDED]
+301    Dict     13l    818c     http://192.168.56.101:8889/includes
+ -> Identified likely directory: includes/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins
+ -> Identified likely directory: plugins/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/media
+ -> Identified likely directory: media/ [EXCLUDED]
+301    Dict     13l    818c     http://192.168.56.101:8889/modules
+ -> Identified likely directory: modules/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/api
+ -> Identified likely directory: api/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/tmp
+ -> Identified likely directory: tmp/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/components
+ -> Identified likely directory: components/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/language
+ -> Identified likely directory: language/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/libraries
+ -> Identified likely directory: libraries/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/cli
+ -> Identified likely directory: cli/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/administrator
+ -> Identified likely directory: administrator/ 
+200    Dict     339l   18092c   http://192.168.56.101:8889/LICENSE.txt
+301    Dict     13l    818c     http://192.168.56.101:8889/layouts
+ -> Identified likely directory: layouts/ 
+200    Dict     172l   6899c    http://192.168.56.101:8889/htaccess.txt
+[INFO] Sent 2000 requests.
+[INFO] Recursing into new directory: /templates/ (11 left)
+[INFO] Sent 3000 requests.
+[INFO] Sent 4000 requests.
+[INFO] Sent 5000 requests.
+[INFO] Sent 6000 requests.
+[INFO] Sent 7000 requests.
+[INFO] Sent 8000 requests.
+200    Dict     78l    5275c    http://192.168.56.101:8889/README.txt
+200    Dict     0l     0c       http://192.168.56.101:8889/configuration.php
+[INFO] Sent 9000 requests.
+[INFO] Sent 10000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/templates/
+301    Dict     13l    818c     http://192.168.56.101:8889/templates/system
+ -> Identified likely directory: templates/system/ 
+[INFO] Sent 11000 requests.
+[INFO] Sent 12000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/templates/index.html
+[INFO] Sent 13000 requests.
+[INFO] Recursing into new directory: /includes/ (11 left)
+[INFO] Sent 14000 requests.
+[INFO] Sent 15000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/includes/
+200    Dict     0l     0c       http://192.168.56.101:8889/includes/app.php
+[INFO] Sent 16000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/includes/index.html
+200    Dict     0l     0c       http://192.168.56.101:8889/includes/framework.php
+[INFO] Sent 17000 requests.
+[INFO] Sent 18000 requests.
+[INFO] Recursing into new directory: /plugins/ (10 left)
+[INFO] Sent 19000 requests.
+[INFO] Sent 20000 requests.
+[INFO] Sent 21000 requests.
+[INFO] Sent 22000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/plugins/
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/system
+ -> Identified likely directory: plugins/system/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/content
+ -> Identified likely directory: plugins/content/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/search
+ -> Identified likely directory: plugins/search/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/privacy
+ -> Identified likely directory: plugins/privacy/ 
+[INFO] Sent 23000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/captcha
+ -> Identified likely directory: plugins/captcha/ 
+[INFO] Sent 24000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/plugins/index.html
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/user
+ -> Identified likely directory: plugins/user/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/installer
+ -> Identified likely directory: plugins/installer/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices
+ -> Identified likely directory: plugins/webservices/ 
+[INFO] Sent 25000 requests.
+[INFO] Sent 26000 requests.
+[INFO] Recursing into new directory: /modules/ (17 left)
+[INFO] Sent 27000 requests.
+[INFO] Sent 28000 requests.
+[INFO] Sent 29000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/modules/
+[INFO] Sent 30000 requests.
+[INFO] Sent 31000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/modules/index.html
+[INFO] Sent 32000 requests.
+[INFO] Sent 33000 requests.
+[INFO] Recursing into new directory: /api/ (16 left)
+[INFO] Sent 34000 requests.
+[INFO] Sent 35000 requests.
+[INFO] Sent 36000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/api/includes
+ -> Identified likely directory: api/includes/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/api/components
+ -> Identified likely directory: api/components/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/api/language
+ -> Identified likely directory: api/language/ 
+[INFO] Sent 37000 requests.
+[INFO] Sent 38000 requests.
+[INFO] Sent 39000 requests.
+[INFO] Sent 40000 requests.
+[INFO] Sent 41000 requests.
+[INFO] Recursing into new directory: /tmp/ (18 left)
+[INFO] Sent 42000 requests.
+[INFO] Sent 43000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/tmp/
+[INFO] Sent 44000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/tmp/index.html
+[INFO] Sent 45000 requests.
+[INFO] Recursing into new directory: /components/ (17 left)
+[INFO] Sent 46000 requests.
+[INFO] Sent 47000 requests.
+[INFO] Sent 48000 requests.
+[INFO] Sent 49000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/components/
+[INFO] Sent 50000 requests.
+[INFO] Sent 51000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/components/index.html
+[INFO] Sent 52000 requests.
+[INFO] Sent 53000 requests.
+[INFO] Recursing into new directory: /language/ (16 left)
+[INFO] Sent 54000 requests.
+[INFO] Sent 55000 requests.
+[INFO] Sent 56000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/language/
+[INFO] Sent 57000 requests.
+[INFO] Sent 58000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/language/index.html
+[INFO] Sent 59000 requests.
+[INFO] Sent 60000 requests.
+[INFO] Sent 61000 requests.
+[INFO] Recursing into new directory: /libraries/ (15 left)
+[INFO] Sent 62000 requests.
+[INFO] Sent 63000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/libraries/
+301    Dict     13l    818c     http://192.168.56.101:8889/libraries/vendor
+ -> Identified likely directory: libraries/vendor/ [EXCLUDED]
+200    Dict     8l     170c     http://192.168.56.101:8889/libraries/web.config
+301    Dict     13l    818c     http://192.168.56.101:8889/libraries/src
+ -> Identified likely directory: libraries/src/ 
+200    Dict     0l     0c       http://192.168.56.101:8889/libraries/bootstrap.php
+200    Dict     0l     0c       http://192.168.56.101:8889/libraries/cms.php
+200    Dict     0l     0c       http://192.168.56.101:8889/libraries/loader.php
+[INFO] Sent 64000 requests.
+[INFO] Sent 65000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/libraries/index.html
+500    Dict     0l     0c       http://192.168.56.101:8889/libraries/import.php
+[INFO] Sent 66000 requests.
+[INFO] Sent 67000 requests.
+[INFO] Sent 68000 requests.
+[INFO] Recursing into new directory: /cli/ (15 left)
+[INFO] Sent 69000 requests.
+[INFO] Sent 70000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/cli/
+[INFO] Sent 71000 requests.
+[INFO] Sent 72000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/cli/index.html
+[INFO] Sent 73000 requests.
+[INFO] Sent 74000 requests.
+[INFO] Sent 75000 requests.
+[INFO] Recursing into new directory: /administrator/ (14 left)
+[INFO] Sent 76000 requests.
+[INFO] Sent 77000 requests.
+200    Dict     184l   10166c   http://192.168.56.101:8889/administrator/
+200    Dict     184l   10166c   http://192.168.56.101:8889/administrator/index.php
+301    Dict     13l    818c     http://192.168.56.101:8889/administrator/templates
+ -> Identified likely directory: administrator/templates/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/administrator/cache
+ -> Identified likely directory: administrator/cache/ [EXCLUDED]
+301    Dict     13l    818c     http://192.168.56.101:8889/administrator/includes
+ -> Identified likely directory: administrator/includes/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/administrator/modules
+ -> Identified likely directory: administrator/modules/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/administrator/components
+ -> Identified likely directory: administrator/components/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/administrator/logs
+ -> Identified likely directory: administrator/logs/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/administrator/help
+ -> Identified likely directory: administrator/help/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/administrator/language
+ -> Identified likely directory: administrator/language/ 
+[INFO] Sent 78000 requests.
+[INFO] Sent 79000 requests.
+[INFO] Sent 80000 requests.
+[INFO] Sent 81000 requests.
+[INFO] Sent 82000 requests.
+[INFO] Recursing into new directory: /layouts/ (20 left)
+[INFO] Sent 83000 requests.
+[INFO] Sent 84000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/layouts/
+301    Dict     13l    818c     http://192.168.56.101:8889/layouts/plugins
+ -> Identified likely directory: layouts/plugins/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/layouts/libraries
+ -> Identified likely directory: layouts/libraries/ 
+[INFO] Sent 85000 requests.
+[INFO] Sent 86000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/layouts/index.html
+[INFO] Sent 87000 requests.
+[INFO] Sent 88000 requests.
+[INFO] Sent 89000 requests.
+[INFO] Recursing into new directory: /templates/system/ (21 left)
+[INFO] Sent 90000 requests.
+[INFO] Sent 91000 requests.
+200    Dict     0l     0c       http://192.168.56.101:8889/templates/system/
+200    Dict     0l     0c       http://192.168.56.101:8889/templates/system/index.php
+200    Dict     0l     0c       http://192.168.56.101:8889/templates/system/error.php
+[INFO] Sent 92000 requests.
+[INFO] Sent 93000 requests.
+[INFO] Sent 94000 requests.
+200    Dict     0l     0c       http://192.168.56.101:8889/templates/system/offline.php
+[INFO] Sent 95000 requests.
+[INFO] Recursing into new directory: /plugins/system/ (20 left)
+[INFO] Sent 96000 requests.
+[INFO] Sent 97000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/system/cache
+ -> Identified likely directory: plugins/system/cache/ [EXCLUDED]
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/system/log
+ -> Identified likely directory: plugins/system/log/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/system/stats
+ -> Identified likely directory: plugins/system/stats/ 
+[INFO] Sent 98000 requests.
+[INFO] Sent 99000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/system/accessibility
+ -> Identified likely directory: plugins/system/accessibility/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/system/redirect
+ -> Identified likely directory: plugins/system/redirect/ 
+[INFO] Sent 100000 requests.
+[INFO] Sent 101000 requests.
+[INFO] Sent 102000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/system/logout
+ -> Identified likely directory: plugins/system/logout/ 
+[INFO] Recursing into new directory: /plugins/content/ (24 left)
+[INFO] Sent 103000 requests.
+[INFO] Sent 104000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/content/contact
+ -> Identified likely directory: plugins/content/contact/ 
+[INFO] Sent 105000 requests.
+[INFO] Sent 106000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/content/vote
+ -> Identified likely directory: plugins/content/vote/ 
+[INFO] Sent 107000 requests.
+[INFO] Sent 108000 requests.
+[INFO] Sent 109000 requests.
+[INFO] Recursing into new directory: /plugins/search/ (25 left)
+[INFO] Sent 110000 requests.
+[INFO] Sent 111000 requests.
+[INFO] Sent 112000 requests.
+[INFO] Sent 113000 requests.
+[INFO] Sent 114000 requests.
+[INFO] Sent 115000 requests.
+[INFO] Sent 116000 requests.
+[INFO] Recursing into new directory: /plugins/privacy/ (24 left)
+[INFO] Sent 117000 requests.
+[INFO] Sent 118000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/privacy/content
+ -> Identified likely directory: plugins/privacy/content/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/privacy/contact
+ -> Identified likely directory: plugins/privacy/contact/ 
+[INFO] Sent 119000 requests.
+[INFO] Sent 120000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/privacy/user
+ -> Identified likely directory: plugins/privacy/user/ 
+[INFO] Sent 121000 requests.
+[INFO] Sent 122000 requests.
+[INFO] Sent 123000 requests.
+[INFO] Recursing into new directory: /plugins/captcha/ (26 left)
+[INFO] Sent 124000 requests.
+[INFO] Sent 125000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/plugins/captcha/
+[INFO] Sent 126000 requests.
+[INFO] Sent 127000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/plugins/captcha/index.html
+[INFO] Sent 128000 requests.
+[INFO] Sent 129000 requests.
+[INFO] Sent 130000 requests.
+[INFO] Recursing into new directory: /plugins/user/ (25 left)
+[INFO] Sent 131000 requests.
+[INFO] Sent 132000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/user/terms
+ -> Identified likely directory: plugins/user/terms/ 
+[INFO] Sent 133000 requests.
+[INFO] Sent 134000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/user/profile
+ -> Identified likely directory: plugins/user/profile/ 
+[INFO] Sent 135000 requests.
+[INFO] Sent 136000 requests.
+[INFO] Sent 137000 requests.
+[INFO] Recursing into new directory: /plugins/installer/ (26 left)
+[INFO] Sent 138000 requests.
+[INFO] Sent 139000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/installer/override
+ -> Identified likely directory: plugins/installer/override/ 
+[INFO] Sent 140000 requests.
+[INFO] Sent 141000 requests.
+[INFO] Sent 142000 requests.
+[INFO] Sent 143000 requests.
+[INFO] Sent 144000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/ (26 left)
+[INFO] Sent 145000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/templates
+ -> Identified likely directory: plugins/webservices/templates/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/plugins
+ -> Identified likely directory: plugins/webservices/plugins/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/media
+ -> Identified likely directory: plugins/webservices/media/ [EXCLUDED]
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/config
+ -> Identified likely directory: plugins/webservices/config/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/modules
+ -> Identified likely directory: plugins/webservices/modules/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/content
+ -> Identified likely directory: plugins/webservices/content/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/contact
+ -> Identified likely directory: plugins/webservices/contact/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/privacy
+ -> Identified likely directory: plugins/webservices/privacy/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/banners
+ -> Identified likely directory: plugins/webservices/banners/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/languages
+ -> Identified likely directory: plugins/webservices/languages/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/tags
+ -> Identified likely directory: plugins/webservices/tags/ 
+[INFO] Sent 146000 requests.
+[INFO] Sent 147000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/installer
+ -> Identified likely directory: plugins/webservices/installer/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/users
+ -> Identified likely directory: plugins/webservices/users/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/redirect
+ -> Identified likely directory: plugins/webservices/redirect/ 
+[INFO] Sent 148000 requests.
+[INFO] Sent 149000 requests.
+[INFO] Sent 150000 requests.
+[INFO] Recursing into new directory: /api/includes/ (38 left)
+[INFO] Sent 151000 requests.
+[INFO] Sent 152000 requests.
+200    Dict     0l     0c       http://192.168.56.101:8889/api/includes/app.php
+[INFO] Sent 153000 requests.
+[INFO] Sent 154000 requests.
+200    Dict     0l     0c       http://192.168.56.101:8889/api/includes/framework.php
+[INFO] Sent 155000 requests.
+[INFO] Sent 156000 requests.
+[INFO] Sent 157000 requests.
+[INFO] Recursing into new directory: /api/components/ (37 left)
+[INFO] Sent 158000 requests.
+[INFO] Sent 159000 requests.
+[INFO] Sent 160000 requests.
+[INFO] Sent 161000 requests.
+[INFO] Sent 162000 requests.
+[INFO] Sent 163000 requests.
+[INFO] Sent 164000 requests.
+[INFO] Recursing into new directory: /api/language/ (36 left)
+[INFO] Sent 165000 requests.
+[INFO] Sent 166000 requests.
+[INFO] Sent 167000 requests.
+[INFO] Sent 168000 requests.
+[INFO] Sent 169000 requests.
+[INFO] Sent 170000 requests.
+[INFO] Sent 171000 requests.
+[INFO] Recursing into new directory: /libraries/src/ (35 left)
+[INFO] Sent 172000 requests.
+[INFO] Sent 173000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/libraries/src/Adapter
+ -> Identified likely directory: libraries/src/Adapter/ 
+[INFO] Sent 174000 requests.
+[INFO] Sent 175000 requests.
+[INFO] Sent 176000 requests.
+[INFO] Sent 177000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/libraries/src/HTML
+ -> Identified likely directory: libraries/src/HTML/ 
+[INFO] Sent 178000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/libraries/src/Service
+ -> Identified likely directory: libraries/src/Service/ 
+[INFO] Recursing into new directory: /administrator/templates/ (37 left)
+[INFO] Sent 179000 requests.
+[INFO] Sent 180000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/administrator/templates/system
+ -> Identified likely directory: administrator/templates/system/ 
+[INFO] Sent 181000 requests.
+[INFO] Sent 182000 requests.
+[INFO] Sent 183000 requests.
+[INFO] Sent 184000 requests.
+[INFO] Sent 185000 requests.
+[INFO] Recursing into new directory: /administrator/includes/ (37 left)
+[INFO] Sent 186000 requests.
+[INFO] Sent 187000 requests.
+200    Dict     0l     0c       http://192.168.56.101:8889/administrator/includes/app.php
+[INFO] Sent 188000 requests.
+200    Dict     0l     0c       http://192.168.56.101:8889/administrator/includes/framework.php
+[INFO] Sent 189000 requests.
+[INFO] Sent 190000 requests.
+[INFO] Sent 191000 requests.
+[INFO] Sent 192000 requests.
+[INFO] Recursing into new directory: /administrator/modules/ (36 left)
+[INFO] Sent 193000 requests.
+[INFO] Sent 194000 requests.
+[INFO] Sent 195000 requests.
+[INFO] Sent 196000 requests.
+[INFO] Sent 197000 requests.
+[INFO] Sent 198000 requests.
+[INFO] Recursing into new directory: /administrator/components/ (35 left)
+[INFO] Sent 199000 requests.
+[INFO] Sent 200000 requests.
+[INFO] Sent 201000 requests.
+[INFO] Sent 202000 requests.
+[INFO] Sent 203000 requests.
+[INFO] Sent 204000 requests.
+[INFO] Sent 205000 requests.
+[INFO] Recursing into new directory: /administrator/logs/ (34 left)
+[INFO] Sent 206000 requests.
+[INFO] Sent 207000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/administrator/logs/
+[INFO] Sent 208000 requests.
+[INFO] Sent 209000 requests.
+200    Dict     1l     31c      http://192.168.56.101:8889/administrator/logs/index.html
+[INFO] Sent 210000 requests.
+[INFO] Sent 211000 requests.
+[INFO] Sent 212000 requests.
+[INFO] Recursing into new directory: /administrator/help/ (33 left)
+[INFO] Sent 213000 requests.
+[INFO] Sent 214000 requests.
+[INFO] Sent 215000 requests.
+[INFO] Sent 216000 requests.
+[INFO] Sent 217000 requests.
+[INFO] Sent 218000 requests.
+[INFO] Sent 219000 requests.
+[INFO] Recursing into new directory: /administrator/language/ (32 left)
+[INFO] Sent 220000 requests.
+[INFO] Sent 221000 requests.
+[INFO] Sent 222000 requests.
+[INFO] Sent 223000 requests.
+[INFO] Sent 224000 requests.
+[INFO] Sent 225000 requests.
+[INFO] Sent 226000 requests.
+[INFO] Recursing into new directory: /layouts/plugins/ (31 left)
+[INFO] Sent 227000 requests.
+[INFO] Sent 228000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/layouts/plugins/system
+ -> Identified likely directory: layouts/plugins/system/ 
+[INFO] Sent 229000 requests.
+[INFO] Sent 230000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/layouts/plugins/user
+ -> Identified likely directory: layouts/plugins/user/ 
+[INFO] Sent 231000 requests.
+[INFO] Sent 232000 requests.
+[INFO] Sent 233000 requests.
+[INFO] Recursing into new directory: /layouts/libraries/ (32 left)
+[INFO] Sent 234000 requests.
+[INFO] Sent 235000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/layouts/libraries/html
+ -> Identified likely directory: layouts/libraries/html/ 
+[INFO] Sent 236000 requests.
+[INFO] Sent 237000 requests.
+[INFO] Sent 238000 requests.
+[INFO] Sent 239000 requests.
+[INFO] Recursing into new directory: /plugins/system/log/ (32 left)
+[INFO] Sent 240000 requests.
+[INFO] Sent 241000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/system/log/src
+ -> Identified likely directory: plugins/system/log/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/system/log/services
+ -> Identified likely directory: plugins/system/log/services/ 
+[INFO] Sent 242000 requests.
+[INFO] Sent 243000 requests.
+[INFO] Sent 244000 requests.
+[INFO] Sent 245000 requests.
+[INFO] Sent 246000 requests.
+[INFO] Recursing into new directory: /plugins/system/stats/ (33 left)
+[INFO] Sent 247000 requests.
+[INFO] Sent 248000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/system/stats/src
+ -> Identified likely directory: plugins/system/stats/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/system/stats/services
+ -> Identified likely directory: plugins/system/stats/services/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/system/stats/layouts
+ -> Identified likely directory: plugins/system/stats/layouts/ 
+[INFO] Sent 249000 requests.
+[INFO] Sent 250000 requests.
+[INFO] Sent 251000 requests.
+[INFO] Sent 252000 requests.
+[INFO] Sent 253000 requests.
+[INFO] Recursing into new directory: /plugins/system/accessibility/ (35 left)
+[INFO] Sent 254000 requests.
+[INFO] Sent 255000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/system/accessibility/src
+ -> Identified likely directory: plugins/system/accessibility/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/system/accessibility/services
+ -> Identified likely directory: plugins/system/accessibility/services/ 
+[INFO] Sent 256000 requests.
+[ERROR] Encountered ConnectionError getting http://192.168.56.101:8889/plugins/system/accessibility/thumbs.txt with message: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[INFO] Sent 257000 requests.
+[INFO] Sent 258000 requests.
+[INFO] Sent 259000 requests.
+[INFO] Sent 260000 requests.
+[INFO] Recursing into new directory: /plugins/system/redirect/ (36 left)
+[INFO] Sent 261000 requests.
+[INFO] Sent 262000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/system/redirect/src
+ -> Identified likely directory: plugins/system/redirect/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/system/redirect/services
+ -> Identified likely directory: plugins/system/redirect/services/ 
+[INFO] Sent 263000 requests.
+[INFO] Sent 264000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/system/redirect/form
+ -> Identified likely directory: plugins/system/redirect/form/ 
+[INFO] Sent 265000 requests.
+[INFO] Sent 266000 requests.
+[INFO] Sent 267000 requests.
+[INFO] Recursing into new directory: /plugins/system/logout/ (38 left)
+[INFO] Sent 268000 requests.
+[INFO] Sent 269000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/system/logout/src
+ -> Identified likely directory: plugins/system/logout/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/system/logout/services
+ -> Identified likely directory: plugins/system/logout/services/ 
+[INFO] Sent 270000 requests.
+[INFO] Sent 271000 requests.
+[INFO] Sent 272000 requests.
+[INFO] Sent 273000 requests.
+[INFO] Sent 274000 requests.
+[INFO] Recursing into new directory: /plugins/content/contact/ (39 left)
+[INFO] Sent 275000 requests.
+[INFO] Sent 276000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/content/contact/src
+ -> Identified likely directory: plugins/content/contact/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/content/contact/services
+ -> Identified likely directory: plugins/content/contact/services/ 
+[INFO] Sent 277000 requests.
+[INFO] Sent 278000 requests.
+[INFO] Sent 279000 requests.
+[INFO] Sent 280000 requests.
+[INFO] Sent 281000 requests.
+[INFO] Recursing into new directory: /plugins/content/vote/ (40 left)
+[INFO] Sent 282000 requests.
+[INFO] Sent 283000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/content/vote/src
+ -> Identified likely directory: plugins/content/vote/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/content/vote/services
+ -> Identified likely directory: plugins/content/vote/services/ 
+[INFO] Sent 284000 requests.
+[INFO] Sent 285000 requests.
+[INFO] Sent 286000 requests.
+[INFO] Sent 287000 requests.
+[INFO] Recursing into new directory: /plugins/privacy/content/ (41 left)
+[INFO] Sent 288000 requests.
+[INFO] Sent 289000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/privacy/content/src
+ -> Identified likely directory: plugins/privacy/content/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/privacy/content/services
+ -> Identified likely directory: plugins/privacy/content/services/ 
+[INFO] Sent 290000 requests.
+[INFO] Sent 291000 requests.
+[INFO] Sent 292000 requests.
+[INFO] Sent 293000 requests.
+[INFO] Sent 294000 requests.
+[INFO] Recursing into new directory: /plugins/privacy/contact/ (42 left)
+[INFO] Sent 295000 requests.
+[INFO] Sent 296000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/privacy/contact/src
+ -> Identified likely directory: plugins/privacy/contact/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/privacy/contact/services
+ -> Identified likely directory: plugins/privacy/contact/services/ 
+[INFO] Sent 297000 requests.
+[INFO] Sent 298000 requests.
+[INFO] Sent 299000 requests.
+[INFO] Sent 300000 requests.
+[INFO] Sent 301000 requests.
+[INFO] Recursing into new directory: /plugins/privacy/user/ (43 left)
+[INFO] Sent 302000 requests.
+[INFO] Sent 303000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/privacy/user/src
+ -> Identified likely directory: plugins/privacy/user/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/privacy/user/services
+ -> Identified likely directory: plugins/privacy/user/services/ 
+[INFO] Sent 304000 requests.
+[INFO] Sent 305000 requests.
+[INFO] Sent 306000 requests.
+[INFO] Sent 307000 requests.
+[INFO] Sent 308000 requests.
+[INFO] Recursing into new directory: /plugins/user/terms/ (44 left)
+[INFO] Sent 309000 requests.
+[INFO] Sent 310000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/user/terms/src
+ -> Identified likely directory: plugins/user/terms/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/user/terms/services
+ -> Identified likely directory: plugins/user/terms/services/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/user/terms/forms
+ -> Identified likely directory: plugins/user/terms/forms/ 
+[INFO] Sent 311000 requests.
+[INFO] Sent 312000 requests.
+[INFO] Sent 313000 requests.
+[INFO] Sent 314000 requests.
+[INFO] Sent 315000 requests.
+[INFO] Recursing into new directory: /plugins/user/profile/ (46 left)
+[INFO] Sent 316000 requests.
+[INFO] Sent 317000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/user/profile/src
+ -> Identified likely directory: plugins/user/profile/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/user/profile/services
+ -> Identified likely directory: plugins/user/profile/services/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/user/profile/forms
+ -> Identified likely directory: plugins/user/profile/forms/ 
+[INFO] Sent 318000 requests.
+[INFO] Sent 319000 requests.
+[INFO] Sent 320000 requests.
+[INFO] Sent 321000 requests.
+[INFO] Sent 322000 requests.
+[INFO] Recursing into new directory: /plugins/installer/override/ (48 left)
+[INFO] Sent 323000 requests.
+[INFO] Sent 324000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/installer/override/src
+ -> Identified likely directory: plugins/installer/override/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/installer/override/services
+ -> Identified likely directory: plugins/installer/override/services/ 
+[INFO] Sent 325000 requests.
+[INFO] Sent 326000 requests.
+[INFO] Sent 327000 requests.
+[INFO] Sent 328000 requests.
+[INFO] Sent 329000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/templates/ (49 left)
+[INFO] Sent 330000 requests.
+[INFO] Sent 331000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/templates/src
+ -> Identified likely directory: plugins/webservices/templates/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/templates/services
+ -> Identified likely directory: plugins/webservices/templates/services/ 
+[INFO] Sent 332000 requests.
+[INFO] Sent 333000 requests.
+[INFO] Sent 334000 requests.
+[INFO] Sent 335000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/plugins/ (50 left)
+[INFO] Sent 336000 requests.
+[INFO] Sent 337000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/plugins/src
+ -> Identified likely directory: plugins/webservices/plugins/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/plugins/services
+ -> Identified likely directory: plugins/webservices/plugins/services/ 
+[INFO] Sent 338000 requests.
+[INFO] Sent 339000 requests.
+[INFO] Sent 340000 requests.
+[INFO] Sent 341000 requests.
+[INFO] Sent 342000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/config/ (51 left)
+[INFO] Sent 343000 requests.
+[INFO] Sent 344000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/config/src
+ -> Identified likely directory: plugins/webservices/config/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/config/services
+ -> Identified likely directory: plugins/webservices/config/services/ 
+[INFO] Sent 345000 requests.
+[INFO] Sent 346000 requests.
+[INFO] Sent 347000 requests.
+[INFO] Sent 348000 requests.
+[INFO] Sent 349000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/modules/ (52 left)
+[INFO] Sent 350000 requests.
+[INFO] Sent 351000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/modules/src
+ -> Identified likely directory: plugins/webservices/modules/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/modules/services
+ -> Identified likely directory: plugins/webservices/modules/services/ 
+[INFO] Sent 352000 requests.
+[INFO] Sent 353000 requests.
+[INFO] Sent 354000 requests.
+[INFO] Sent 355000 requests.
+[INFO] Sent 356000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/content/ (53 left)
+[INFO] Sent 357000 requests.
+[INFO] Sent 358000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/content/src
+ -> Identified likely directory: plugins/webservices/content/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/content/services
+ -> Identified likely directory: plugins/webservices/content/services/ 
+[INFO] Sent 359000 requests.
+[INFO] Sent 360000 requests.
+[INFO] Sent 361000 requests.
+[INFO] Sent 362000 requests.
+[INFO] Sent 363000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/contact/ (54 left)
+[INFO] Sent 364000 requests.
+[INFO] Sent 365000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/contact/src
+ -> Identified likely directory: plugins/webservices/contact/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/contact/services
+ -> Identified likely directory: plugins/webservices/contact/services/ 
+[INFO] Sent 366000 requests.
+[INFO] Sent 367000 requests.
+[INFO] Sent 368000 requests.
+[INFO] Sent 369000 requests.
+[INFO] Sent 370000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/privacy/ (55 left)
+[INFO] Sent 371000 requests.
+[INFO] Sent 372000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/privacy/src
+ -> Identified likely directory: plugins/webservices/privacy/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/privacy/services
+ -> Identified likely directory: plugins/webservices/privacy/services/ 
+[INFO] Sent 373000 requests.
+[INFO] Sent 374000 requests.
+[INFO] Sent 375000 requests.
+[INFO] Sent 376000 requests.
+[INFO] Sent 377000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/banners/ (56 left)
+[INFO] Sent 378000 requests.
+[INFO] Sent 379000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/banners/src
+ -> Identified likely directory: plugins/webservices/banners/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/banners/services
+ -> Identified likely directory: plugins/webservices/banners/services/ 
+[INFO] Sent 380000 requests.
+[INFO] Sent 381000 requests.
+[INFO] Sent 382000 requests.
+[INFO] Sent 383000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/languages/ (57 left)
+[INFO] Sent 384000 requests.
+[INFO] Sent 385000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/languages/src
+ -> Identified likely directory: plugins/webservices/languages/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/languages/services
+ -> Identified likely directory: plugins/webservices/languages/services/ 
+[INFO] Sent 386000 requests.
+[INFO] Sent 387000 requests.
+[INFO] Sent 388000 requests.
+[INFO] Sent 389000 requests.
+[INFO] Sent 390000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/tags/ (58 left)
+[INFO] Sent 391000 requests.
+[INFO] Sent 392000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/tags/src
+ -> Identified likely directory: plugins/webservices/tags/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/tags/services
+ -> Identified likely directory: plugins/webservices/tags/services/ 
+[INFO] Sent 393000 requests.
+[INFO] Sent 394000 requests.
+[INFO] Sent 395000 requests.
+[INFO] Sent 396000 requests.
+[INFO] Sent 397000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/installer/ (59 left)
+[INFO] Sent 398000 requests.
+[INFO] Sent 399000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/installer/src
+ -> Identified likely directory: plugins/webservices/installer/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/installer/services
+ -> Identified likely directory: plugins/webservices/installer/services/ 
+[INFO] Sent 400000 requests.
+[INFO] Sent 401000 requests.
+[INFO] Sent 402000 requests.
+[INFO] Sent 403000 requests.
+[INFO] Sent 404000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/users/ (60 left)
+[INFO] Sent 405000 requests.
+[INFO] Sent 406000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/users/src
+ -> Identified likely directory: plugins/webservices/users/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/users/services
+ -> Identified likely directory: plugins/webservices/users/services/ 
+[INFO] Sent 407000 requests.
+[INFO] Sent 408000 requests.
+[INFO] Sent 409000 requests.
+[INFO] Sent 410000 requests.
+[INFO] Sent 411000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/redirect/ (61 left)
+[INFO] Sent 412000 requests.
+[INFO] Sent 413000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/redirect/src
+ -> Identified likely directory: plugins/webservices/redirect/src/ 
+301    Dict     13l    818c     http://192.168.56.101:8889/plugins/webservices/redirect/services
+ -> Identified likely directory: plugins/webservices/redirect/services/ 
+[INFO] Sent 414000 requests.
+[INFO] Sent 415000 requests.
+[INFO] Sent 416000 requests.
+[INFO] Sent 417000 requests.
+[INFO] Sent 418000 requests.
+[INFO] Recursing into new directory: /libraries/src/Adapter/ (62 left)
+[INFO] Sent 419000 requests.
+[INFO] Sent 420000 requests.
+200    Dict     0l     0c       http://192.168.56.101:8889/libraries/src/Adapter/Adapter.php
+[INFO] Sent 421000 requests.
+[INFO] Sent 422000 requests.
+[INFO] Sent 423000 requests.
+[INFO] Sent 424000 requests.
+[INFO] Sent 425000 requests.
+[INFO] Recursing into new directory: /libraries/src/HTML/ (61 left)
+[INFO] Sent 426000 requests.
+[INFO] Sent 427000 requests.
+[INFO] Sent 428000 requests.
+[INFO] Sent 429000 requests.
+[INFO] Sent 430000 requests.
+[INFO] Sent 431000 requests.
+[INFO] Recursing into new directory: /libraries/src/Service/ (60 left)
+[INFO] Sent 432000 requests.
+[INFO] Sent 433000 requests.
+[INFO] Sent 434000 requests.
+[INFO] Sent 435000 requests.
+[INFO] Sent 436000 requests.
+[INFO] Sent 437000 requests.
+[INFO] Sent 438000 requests.
+[INFO] Recursing into new directory: /administrator/templates/system/ (59 left)
+[INFO] Sent 439000 requests.
+[INFO] Sent 440000 requests.
+200    Dict     0l     0c       http://192.168.56.101:8889/administrator/templates/system/
+200    Dict     0l     0c       http://192.168.56.101:8889/administrator/templates/system/index.php
+200    Dict     0l     0c       http://192.168.56.101:8889/administrator/templates/system/error.php
+[INFO] Sent 441000 requests.
+[INFO] Sent 442000 requests.
+[INFO] Sent 443000 requests.
+[INFO] Sent 444000 requests.
+[INFO] Sent 445000 requests.
+[INFO] Recursing into new directory: /layouts/plugins/system/ (58 left)
+[INFO] Sent 446000 requests.
+[INFO] Sent 447000 requests.
+[ERROR] Encountered ConnectionError getting http://192.168.56.101:8889/layouts/plugins/system/feeds.php with message: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[INFO] Sent 448000 requests.
+[INFO] Sent 449000 requests.
+[INFO] Sent 450000 requests.
+[INFO] Sent 451000 requests.
+[INFO] Sent 452000 requests.
+[INFO] Recursing into new directory: /layouts/plugins/user/ (57 left)
+[INFO] Sent 453000 requests.
+[INFO] Sent 454000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/layouts/plugins/user/terms
+ -> Identified likely directory: layouts/plugins/user/terms/ 
+[INFO] Sent 455000 requests.
+[INFO] Sent 456000 requests.
+[INFO] Sent 457000 requests.
+[INFO] Sent 458000 requests.
+[INFO] Sent 459000 requests.
+[INFO] Recursing into new directory: /layouts/libraries/html/ (57 left)
+[INFO] Sent 460000 requests.
+[INFO] Sent 461000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/layouts/libraries/html/bootstrap
+ -> Identified likely directory: layouts/libraries/html/bootstrap/ 
+[INFO] Sent 462000 requests.
+[INFO] Sent 463000 requests.
+[INFO] Sent 464000 requests.
+[INFO] Sent 465000 requests.
+[INFO] Sent 466000 requests.
+[INFO] Recursing into new directory: /plugins/system/log/src/ (57 left)
+[INFO] Sent 467000 requests.
+[INFO] Sent 468000 requests.
+[INFO] Sent 469000 requests.
+[INFO] Sent 470000 requests.
+[INFO] Sent 471000 requests.
+[INFO] Sent 472000 requests.
+[INFO] Sent 473000 requests.
+[INFO] Recursing into new directory: /plugins/system/log/services/ (56 left)
+[INFO] Sent 474000 requests.
+[INFO] Sent 475000 requests.
+[INFO] Sent 476000 requests.
+[INFO] Sent 477000 requests.
+[INFO] Sent 478000 requests.
+[INFO] Sent 479000 requests.
+[INFO] Recursing into new directory: /plugins/system/stats/src/ (55 left)
+[INFO] Sent 480000 requests.
+[INFO] Sent 481000 requests.
+[INFO] Sent 482000 requests.
+[INFO] Sent 483000 requests.
+[INFO] Sent 484000 requests.
+[INFO] Sent 485000 requests.
+[INFO] Sent 486000 requests.
+[INFO] Recursing into new directory: /plugins/system/stats/services/ (54 left)
+[INFO] Sent 487000 requests.
+[INFO] Sent 488000 requests.
+[INFO] Sent 489000 requests.
+[INFO] Sent 490000 requests.
+[INFO] Sent 491000 requests.
+[INFO] Sent 492000 requests.
+[INFO] Sent 493000 requests.
+[INFO] Recursing into new directory: /plugins/system/stats/layouts/ (53 left)
+[INFO] Sent 494000 requests.
+[INFO] Sent 495000 requests.
+200    Dict     0l     0c       http://192.168.56.101:8889/plugins/system/stats/layouts/stats.php
+[INFO] Sent 496000 requests.
+[INFO] Sent 497000 requests.
+[INFO] Sent 498000 requests.
+[INFO] Sent 499000 requests.
+[ERROR] Encountered ConnectionError getting http://192.168.56.101:8889/plugins/system/stats/layouts/ford.html with message: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[INFO] Sent 500000 requests.
+[INFO] Recursing into new directory: /plugins/system/accessibility/src/ (52 left)
+[INFO] Sent 501000 requests.
+[INFO] Sent 502000 requests.
+[INFO] Sent 503000 requests.
+[INFO] Sent 504000 requests.
+[INFO] Sent 505000 requests.
+[INFO] Sent 506000 requests.
+[INFO] Sent 507000 requests.
+[INFO] Recursing into new directory: /plugins/system/accessibility/services/ (51 left)
+[INFO] Sent 508000 requests.
+[ERROR] Encountered ConnectionError getting http://192.168.56.101:8889/plugins/system/accessibility/services/TV.html with message: ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+[INFO] Sent 509000 requests.
+[INFO] Sent 510000 requests.
+[INFO] Sent 511000 requests.
+[INFO] Sent 512000 requests.
+[INFO] Sent 513000 requests.
+[INFO] Sent 514000 requests.
+[INFO] Recursing into new directory: /plugins/system/redirect/src/ (50 left)
+[INFO] Sent 515000 requests.
+[INFO] Sent 516000 requests.
+[INFO] Sent 517000 requests.
+[INFO] Sent 518000 requests.
+[INFO] Sent 519000 requests.
+[INFO] Sent 520000 requests.
+[INFO] Sent 521000 requests.
+[INFO] Recursing into new directory: /plugins/system/redirect/services/ (49 left)
+[INFO] Sent 522000 requests.
+[INFO] Sent 523000 requests.
+[INFO] Sent 524000 requests.
+[INFO] Sent 525000 requests.
+[INFO] Sent 526000 requests.
+[INFO] Sent 527000 requests.
+[INFO] Recursing into new directory: /plugins/system/redirect/form/ (48 left)
+[INFO] Sent 528000 requests.
+[ERROR] Encountered ConnectionError getting http://192.168.56.101:8889/plugins/system/redirect/form/image with message: ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+[INFO] Sent 529000 requests.
+[INFO] Sent 530000 requests.
+[INFO] Sent 531000 requests.
+[ERROR] Encountered ConnectionError getting http://192.168.56.101:8889/plugins/system/redirect/form/robot.txt with message: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[INFO] Sent 532000 requests.
+[INFO] Sent 533000 requests.
+[INFO] Sent 534000 requests.
+[INFO] Recursing into new directory: /plugins/system/logout/src/ (47 left)
+[INFO] Sent 535000 requests.
+[INFO] Sent 536000 requests.
+[INFO] Sent 537000 requests.
+[INFO] Sent 538000 requests.
+[INFO] Sent 539000 requests.
+[INFO] Sent 540000 requests.
+[INFO] Sent 541000 requests.
+[INFO] Recursing into new directory: /plugins/system/logout/services/ (46 left)
+[INFO] Sent 542000 requests.
+[INFO] Sent 543000 requests.
+[INFO] Sent 544000 requests.
+[INFO] Sent 545000 requests.
+[INFO] Sent 546000 requests.
+[INFO] Sent 547000 requests.
+[INFO] Sent 548000 requests.
+[INFO] Recursing into new directory: /plugins/content/contact/src/ (45 left)
+[INFO] Sent 549000 requests.
+[INFO] Sent 550000 requests.
+[INFO] Sent 551000 requests.
+[INFO] Sent 552000 requests.
+[INFO] Sent 553000 requests.
+[INFO] Sent 554000 requests.
+[INFO] Sent 555000 requests.
+[INFO] Recursing into new directory: /plugins/content/contact/services/ (44 left)
+[INFO] Sent 556000 requests.
+[INFO] Sent 557000 requests.
+[INFO] Sent 558000 requests.
+[INFO] Sent 559000 requests.
+[INFO] Sent 560000 requests.
+[INFO] Sent 561000 requests.
+[INFO] Sent 562000 requests.
+[INFO] Recursing into new directory: /plugins/content/vote/src/ (43 left)
+[INFO] Sent 563000 requests.
+[INFO] Sent 564000 requests.
+[INFO] Sent 565000 requests.
+[INFO] Sent 566000 requests.
+[INFO] Sent 567000 requests.
+[INFO] Sent 568000 requests.
+[INFO] Sent 569000 requests.
+[INFO] Recursing into new directory: /plugins/content/vote/services/ (42 left)
+[INFO] Sent 570000 requests.
+[INFO] Sent 571000 requests.
+[INFO] Sent 572000 requests.
+[INFO] Sent 573000 requests.
+[INFO] Sent 574000 requests.
+[INFO] Sent 575000 requests.
+[INFO] Recursing into new directory: /plugins/privacy/content/src/ (41 left)
+[INFO] Sent 576000 requests.
+[ERROR] Encountered ConnectionError getting http://192.168.56.101:8889/plugins/privacy/content/src/font-awesome.txt with message: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[INFO] Sent 577000 requests.
+[INFO] Sent 578000 requests.
+[INFO] Sent 579000 requests.
+[INFO] Sent 580000 requests.
+[INFO] Sent 581000 requests.
+[INFO] Sent 582000 requests.
+[INFO] Recursing into new directory: /plugins/privacy/content/services/ (40 left)
+[INFO] Sent 583000 requests.
+[ERROR] Encountered ConnectionError getting http://192.168.56.101:8889/plugins/privacy/content/services/header.php with message: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[INFO] Sent 584000 requests.
+[INFO] Sent 585000 requests.
+[INFO] Sent 586000 requests.
+[INFO] Sent 587000 requests.
+[INFO] Sent 588000 requests.
+[INFO] Sent 589000 requests.
+[INFO] Recursing into new directory: /plugins/privacy/contact/src/ (39 left)
+[INFO] Sent 590000 requests.
+[INFO] Sent 591000 requests.
+[INFO] Sent 592000 requests.
+[INFO] Sent 593000 requests.
+[INFO] Sent 594000 requests.
+[INFO] Sent 595000 requests.
+[INFO] Sent 596000 requests.
+[INFO] Recursing into new directory: /plugins/privacy/contact/services/ (38 left)
+[INFO] Sent 597000 requests.
+[INFO] Sent 598000 requests.
+[INFO] Sent 599000 requests.
+[INFO] Sent 600000 requests.
+[INFO] Sent 601000 requests.
+[INFO] Sent 602000 requests.
+[INFO] Sent 603000 requests.
+[ERROR] Encountered ConnectionError getting http://192.168.56.101:8889/plugins/privacy/contact/services/baby-app-updates.txt with message: ('Connection aborted.', ConnectionAbortedError(10053, 'An established connection was aborted by the software in your host machine', None, 10053, None))
+[INFO] Recursing into new directory: /plugins/privacy/user/src/ (37 left)
+[INFO] Sent 604000 requests.
+[INFO] Sent 605000 requests.
+[INFO] Sent 606000 requests.
+[INFO] Sent 607000 requests.
+[INFO] Sent 608000 requests.
+[INFO] Sent 609000 requests.
+[INFO] Sent 610000 requests.
+[ERROR] Encountered ConnectionError getting http://192.168.56.101:8889/plugins/privacy/user/src/adclick.php.txt with message: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[INFO] Recursing into new directory: /plugins/privacy/user/services/ (36 left)
+[INFO] Sent 611000 requests.
+[INFO] Sent 612000 requests.
+[INFO] Sent 613000 requests.
+[INFO] Sent 614000 requests.
+[INFO] Sent 615000 requests.
+[ERROR] Encountered ConnectionError getting http://192.168.56.101:8889/plugins/privacy/user/services/usfs.php with message: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[INFO] Sent 616000 requests.
+[INFO] Sent 617000 requests.
+[INFO] Recursing into new directory: /plugins/user/terms/src/ (35 left)
+[INFO] Sent 618000 requests.
+[INFO] Sent 619000 requests.
+[INFO] Sent 620000 requests.
+[INFO] Sent 621000 requests.
+[INFO] Sent 622000 requests.
+[INFO] Sent 623000 requests.
+[INFO] Recursing into new directory: /plugins/user/terms/services/ (34 left)
+[INFO] Sent 624000 requests.
+[INFO] Sent 625000 requests.
+[INFO] Sent 626000 requests.
+[INFO] Sent 627000 requests.
+[INFO] Sent 628000 requests.
+[INFO] Sent 629000 requests.
+[INFO] Sent 630000 requests.
+[INFO] Recursing into new directory: /plugins/user/terms/forms/ (33 left)
+[INFO] Sent 631000 requests.
+[INFO] Sent 632000 requests.
+[INFO] Sent 633000 requests.
+[INFO] Sent 634000 requests.
+[INFO] Sent 635000 requests.
+[INFO] Sent 636000 requests.
+[INFO] Sent 637000 requests.
+[INFO] Recursing into new directory: /plugins/user/profile/src/ (32 left)
+[INFO] Sent 638000 requests.
+[INFO] Sent 639000 requests.
+[INFO] Sent 640000 requests.
+[INFO] Sent 641000 requests.
+[ERROR] Encountered ConnectionError getting http://192.168.56.101:8889/plugins/user/profile/src/studyabroad.php with message: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[INFO] Sent 642000 requests.
+[INFO] Sent 643000 requests.
+[INFO] Sent 644000 requests.
+[INFO] Recursing into new directory: /plugins/user/profile/services/ (31 left)
+[INFO] Sent 645000 requests.
+[INFO] Sent 646000 requests.
+[INFO] Sent 647000 requests.
+[INFO] Sent 648000 requests.
+[INFO] Sent 649000 requests.
+[INFO] Sent 650000 requests.
+[INFO] Sent 651000 requests.
+[INFO] Recursing into new directory: /plugins/user/profile/forms/ (30 left)
+[INFO] Sent 652000 requests.
+[INFO] Sent 653000 requests.
+[INFO] Sent 654000 requests.
+[INFO] Sent 655000 requests.
+[INFO] Sent 656000 requests.
+[INFO] Sent 657000 requests.
+[INFO] Sent 658000 requests.
+[INFO] Recursing into new directory: /plugins/installer/override/src/ (29 left)
+[INFO] Sent 659000 requests.
+[INFO] Sent 660000 requests.
+[INFO] Sent 661000 requests.
+[INFO] Sent 662000 requests.
+[INFO] Sent 663000 requests.
+[INFO] Sent 664000 requests.
+[INFO] Sent 665000 requests.
+[INFO] Recursing into new directory: /plugins/installer/override/services/ (28 left)
+[INFO] Sent 666000 requests.
+[INFO] Sent 667000 requests.
+[INFO] Sent 668000 requests.
+[INFO] Sent 669000 requests.
+[INFO] Sent 670000 requests.
+[INFO] Sent 671000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/templates/src/ (27 left)
+[INFO] Sent 672000 requests.
+[INFO] Sent 673000 requests.
+[INFO] Sent 674000 requests.
+[INFO] Sent 675000 requests.
+[ERROR] Encountered ConnectionError getting http://192.168.56.101:8889/plugins/webservices/templates/src/shell.txt with message: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[INFO] Sent 676000 requests.
+[INFO] Sent 677000 requests.
+[INFO] Sent 678000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/templates/services/ (26 left)
+[INFO] Sent 679000 requests.
+[INFO] Sent 680000 requests.
+[INFO] Sent 681000 requests.
+[INFO] Sent 682000 requests.
+[INFO] Sent 683000 requests.
+[INFO] Sent 684000 requests.
+[INFO] Sent 685000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/plugins/src/ (25 left)
+[INFO] Sent 686000 requests.
+[INFO] Sent 687000 requests.
+[INFO] Sent 688000 requests.
+[INFO] Sent 689000 requests.
+[INFO] Sent 690000 requests.
+[INFO] Sent 691000 requests.
+[INFO] Sent 692000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/plugins/services/ (24 left)
+[INFO] Sent 693000 requests.
+[INFO] Sent 694000 requests.
+[INFO] Sent 695000 requests.
+[INFO] Sent 696000 requests.
+[INFO] Sent 697000 requests.
+[INFO] Sent 698000 requests.
+[INFO] Sent 699000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/config/src/ (23 left)
+[INFO] Sent 700000 requests.
+[INFO] Sent 701000 requests.
+[INFO] Sent 702000 requests.
+[INFO] Sent 703000 requests.
+[INFO] Sent 704000 requests.
+[INFO] Sent 705000 requests.
+[INFO] Sent 706000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/config/services/ (22 left)
+[INFO] Sent 707000 requests.
+[INFO] Sent 708000 requests.
+[INFO] Sent 709000 requests.
+[INFO] Sent 710000 requests.
+[INFO] Sent 711000 requests.
+[INFO] Sent 712000 requests.
+[INFO] Sent 713000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/modules/src/ (21 left)
+[INFO] Sent 714000 requests.
+[INFO] Sent 715000 requests.
+[INFO] Sent 716000 requests.
+[INFO] Sent 717000 requests.
+[INFO] Sent 718000 requests.
+[INFO] Sent 719000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/modules/services/ (20 left)
+[INFO] Sent 720000 requests.
+[INFO] Sent 721000 requests.
+[INFO] Sent 722000 requests.
+[INFO] Sent 723000 requests.
+[INFO] Sent 724000 requests.
+[INFO] Sent 725000 requests.
+[INFO] Sent 726000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/content/src/ (19 left)
+[INFO] Sent 727000 requests.
+[INFO] Sent 728000 requests.
+[INFO] Sent 729000 requests.
+[INFO] Sent 730000 requests.
+[INFO] Sent 731000 requests.
+[INFO] Sent 732000 requests.
+[INFO] Sent 733000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/content/services/ (18 left)
+[INFO] Sent 734000 requests.
+[INFO] Sent 735000 requests.
+[INFO] Sent 736000 requests.
+[INFO] Sent 737000 requests.
+[INFO] Sent 738000 requests.
+[INFO] Sent 739000 requests.
+[INFO] Sent 740000 requests.
+[ERROR] Encountered ConnectionError getting http://192.168.56.101:8889/plugins/webservices/content/services/bridge.txt with message: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[INFO] Recursing into new directory: /plugins/webservices/contact/src/ (17 left)
+[INFO] Sent 741000 requests.
+[INFO] Sent 742000 requests.
+[INFO] Sent 743000 requests.
+[INFO] Sent 744000 requests.
+[INFO] Sent 745000 requests.
+[INFO] Sent 746000 requests.
+[INFO] Sent 747000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/contact/services/ (16 left)
+[INFO] Sent 748000 requests.
+[INFO] Sent 749000 requests.
+[INFO] Sent 750000 requests.
+[INFO] Sent 751000 requests.
+[INFO] Sent 752000 requests.
+[INFO] Sent 753000 requests.
+[INFO] Sent 754000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/privacy/src/ (15 left)
+[INFO] Sent 755000 requests.
+[INFO] Sent 756000 requests.
+[INFO] Sent 757000 requests.
+[INFO] Sent 758000 requests.
+[INFO] Sent 759000 requests.
+[INFO] Sent 760000 requests.
+[INFO] Sent 761000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/privacy/services/ (14 left)
+[INFO] Sent 762000 requests.
+[ERROR] Encountered ConnectionError getting http://192.168.56.101:8889/plugins/webservices/privacy/services/documentation.html with message: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[INFO] Sent 763000 requests.
+[INFO] Sent 764000 requests.
+[INFO] Sent 765000 requests.
+[INFO] Sent 766000 requests.
+[INFO] Sent 767000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/banners/src/ (13 left)
+[INFO] Sent 768000 requests.
+[INFO] Sent 769000 requests.
+[INFO] Sent 770000 requests.
+[ERROR] Encountered ConnectionError getting http://192.168.56.101:8889/plugins/webservices/banners/src/schedule.txt with message: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[INFO] Sent 771000 requests.
+[INFO] Sent 772000 requests.
+[INFO] Sent 773000 requests.
+[INFO] Sent 774000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/banners/services/ (12 left)
+[INFO] Sent 775000 requests.
+[INFO] Sent 776000 requests.
+[INFO] Sent 777000 requests.
+[INFO] Sent 778000 requests.
+[INFO] Sent 779000 requests.
+[INFO] Sent 780000 requests.
+[INFO] Sent 781000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/languages/src/ (11 left)
+[INFO] Sent 782000 requests.
+[INFO] Sent 783000 requests.
+[INFO] Sent 784000 requests.
+[INFO] Sent 785000 requests.
+[INFO] Sent 786000 requests.
+[INFO] Sent 787000 requests.
+[INFO] Sent 788000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/languages/services/ (10 left)
+[INFO] Sent 789000 requests.
+[INFO] Sent 790000 requests.
+[INFO] Sent 791000 requests.
+[INFO] Sent 792000 requests.
+[INFO] Sent 793000 requests.
+[INFO] Sent 794000 requests.
+[INFO] Sent 795000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/tags/src/ (9 left)
+[INFO] Sent 796000 requests.
+[INFO] Sent 797000 requests.
+[INFO] Sent 798000 requests.
+[INFO] Sent 799000 requests.
+[INFO] Sent 800000 requests.
+[INFO] Sent 801000 requests.
+[INFO] Sent 802000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/tags/services/ (8 left)
+[INFO] Sent 803000 requests.
+[INFO] Sent 804000 requests.
+[INFO] Sent 805000 requests.
+[INFO] Sent 806000 requests.
+[INFO] Sent 807000 requests.
+[INFO] Sent 808000 requests.
+[INFO] Sent 809000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/installer/src/ (7 left)
+[INFO] Sent 810000 requests.
+[ERROR] Encountered ConnectionError getting http://192.168.56.101:8889/plugins/webservices/installer/src/news.php.txt with message: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[INFO] Sent 811000 requests.
+[INFO] Sent 812000 requests.
+[INFO] Sent 813000 requests.
+[INFO] Sent 814000 requests.
+[INFO] Sent 815000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/installer/services/ (6 left)
+[INFO] Sent 816000 requests.
+[INFO] Sent 817000 requests.
+[INFO] Sent 818000 requests.
+[INFO] Sent 819000 requests.
+[INFO] Sent 820000 requests.
+[INFO] Sent 821000 requests.
+[INFO] Sent 822000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/users/src/ (5 left)
+[INFO] Sent 823000 requests.
+[INFO] Sent 824000 requests.
+[INFO] Sent 825000 requests.
+[INFO] Sent 826000 requests.
+[INFO] Sent 827000 requests.
+[INFO] Sent 828000 requests.
+[INFO] Sent 829000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/users/services/ (4 left)
+[INFO] Sent 830000 requests.
+[INFO] Sent 831000 requests.
+[INFO] Sent 832000 requests.
+[INFO] Sent 833000 requests.
+[INFO] Sent 834000 requests.
+[INFO] Sent 835000 requests.
+[INFO] Sent 836000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/redirect/src/ (3 left)
+[INFO] Sent 837000 requests.
+[INFO] Sent 838000 requests.
+[INFO] Sent 839000 requests.
+[INFO] Sent 840000 requests.
+[ERROR] Encountered ConnectionError getting http://192.168.56.101:8889/plugins/webservices/redirect/src/langs.html with message: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))
+[INFO] Sent 841000 requests.
+[INFO] Sent 842000 requests.
+[INFO] Sent 843000 requests.
+[INFO] Recursing into new directory: /plugins/webservices/redirect/services/ (2 left)
+[INFO] Sent 844000 requests.
+[INFO] Sent 845000 requests.
+[INFO] Sent 846000 requests.
+[INFO] Sent 847000 requests.
+[INFO] Sent 848000 requests.
+[INFO] Sent 849000 requests.
+[INFO] Sent 850000 requests.
+[INFO] Recursing into new directory: /layouts/plugins/user/terms/ (1 left)
+[INFO] Sent 851000 requests.
+[INFO] Sent 852000 requests.
+[INFO] Sent 853000 requests.
+[INFO] Sent 854000 requests.
+[INFO] Sent 855000 requests.
+[INFO] Sent 856000 requests.
+[INFO] Sent 857000 requests.
+[INFO] Recursing into new directory: /layouts/libraries/html/bootstrap/ (0 left)
+[INFO] Sent 858000 requests.
+[INFO] Sent 859000 requests.
+[INFO] Sent 860000 requests.
+301    Dict     13l    818c     http://192.168.56.101:8889/layouts/libraries/html/bootstrap/modal
+ -> Identified likely directory: layouts/libraries/html/bootstrap/modal/ 
+[INFO] Sent 861000 requests.
+[INFO] Sent 862000 requests.
+[INFO] Sent 863000 requests.
+[INFO] Recursing into new directory: /layouts/libraries/html/bootstrap/modal/ (0 left)
+[INFO] Sent 864000 requests.
+[INFO] Sent 865000 requests.
+200    Dict     0l     0c       http://192.168.56.101:8889/layouts/libraries/html/bootstrap/modal/footer.php
+200    Dict     0l     0c       http://192.168.56.101:8889/layouts/libraries/html/bootstrap/modal/header.php
+200    Dict     0l     0c       http://192.168.56.101:8889/layouts/libraries/html/bootstrap/modal/main.php
+[INFO] Sent 866000 requests.
+[INFO] Sent 867000 requests.
+[INFO] Sent 868000 requests.
+[INFO] Sent 869000 requests.
+[INFO] Sent 870000 requests.
+
+==== Summary ====
+Finished enumerating in 42408.77 seconds.
+Totals: 190 / 870839
+
+Breakdown by request origin:
+- Dict: 190 / 870839

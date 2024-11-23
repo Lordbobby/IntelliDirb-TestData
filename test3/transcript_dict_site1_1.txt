@@ -1,0 +1,307 @@
+[Warning] 'tarty1' font is not printable in this environment.
+
+[INFO] Loaded wordlist file with 1829 words.
+[INFO] Beginning enumeration...
+301    Dict     9l     320c     http://192.168.56.101:81/images
+ -> Identified likely directory: images/ [EXCLUDED]
+301    Dict     9l     320c     http://192.168.56.101:81/assets
+ -> Identified likely directory: assets/ [EXCLUDED]
+200    Dict     321l   13246c   http://192.168.56.101:81/
+200    Dict     69l    1813c    http://192.168.56.101:81/web.config
+200    Dict     5110l  187145c  http://192.168.56.101:81/composer.lock
+200    Dict     0l     0c       http://192.168.56.101:81/config.php
+301    Dict     9l     319c     http://192.168.56.101:81/files
+ -> Identified likely directory: files/ 
+301    Dict     9l     322c     http://192.168.56.101:81/includes
+ -> Identified likely directory: includes/ 
+301    Dict     9l     319c     http://192.168.56.101:81/cache
+ -> Identified likely directory: cache/ [EXCLUDED]
+200    Dict     83l    2256c    http://192.168.56.101:81/composer.json
+301    Dict     9l     320c     http://192.168.56.101:81/vendor
+ -> Identified likely directory: vendor/ [EXCLUDED]
+301    Dict     9l     320c     http://192.168.56.101:81/config
+ -> Identified likely directory: config/ 
+301    Dict     9l     320c     http://192.168.56.101:81/styles
+ -> Identified likely directory: styles/ [EXCLUDED]
+200    Dict     321l   13247c   http://192.168.56.101:81/index.php
+301    Dict     9l     318c     http://192.168.56.101:81/docs
+ -> Identified likely directory: docs/ 
+200    Dict     0l     0c       http://192.168.56.101:81/common.php
+301    Dict     9l     322c     http://192.168.56.101:81/download
+ -> Identified likely directory: download/ 
+200    Dict     305l   11728c   http://192.168.56.101:81/search.php
+301    Dict     9l     317c     http://192.168.56.101:81/bin
+ -> Identified likely directory: bin/ 
+[INFO] Sent 1000 requests.
+[INFO] Sent 2000 requests.
+301    Dict     9l     322c     http://192.168.56.101:81/language
+ -> Identified likely directory: language/ 
+301    Dict     9l     324c     http://192.168.56.101:81/javascript
+ -> Identified likely directory: javascript/ 
+301    Dict     9l     319c     http://192.168.56.101:81/store
+ -> Identified likely directory: store/ 
+400    Dict     0l     68c      http://192.168.56.101:81/cron.php
+301    Dict     11l    462c     http://192.168.56.101:81/faq.php
+301    Dict     11l    298c     http://192.168.56.101:81/feed.php
+[INFO] Recursing into new directory: /files/ (8 left)
+[INFO] Sent 3000 requests.
+[INFO] Sent 4000 requests.
+[INFO] Sent 5000 requests.
+[INFO] Sent 6000 requests.
+[INFO] Sent 7000 requests.
+[INFO] Sent 8000 requests.
+301    Dict     11l    334c     http://192.168.56.101:81/report.php
+301    Dict     9l     317c     http://192.168.56.101:81/adm
+ -> Identified likely directory: adm/ 
+301    Dict     9l     317c     http://192.168.56.101:81/ext
+ -> Identified likely directory: ext/ 
+200    Dict     10l    169c     http://192.168.56.101:81/files/
+[INFO] Sent 9000 requests.
+[INFO] Sent 10000 requests.
+200    Dict     10l    169c     http://192.168.56.101:81/files/index.htm
+[INFO] Sent 11000 requests.
+[INFO] Sent 12000 requests.
+[INFO] Sent 13000 requests.
+[INFO] Recursing into new directory: /includes/ (9 left)
+[INFO] Sent 14000 requests.
+200    Dict     10l    169c     http://192.168.56.101:81/includes/
+[INFO] Sent 15000 requests.
+200    Dict     10l    169c     http://192.168.56.101:81/includes/index.htm
+200    Dict     0l     0c       http://192.168.56.101:81/includes/functions.php
+[INFO] Sent 16000 requests.
+[INFO] Sent 17000 requests.
+[INFO] Recursing into new directory: /config/ (8 left)
+[INFO] Sent 18000 requests.
+[INFO] Sent 19000 requests.
+[INFO] Sent 20000 requests.
+[INFO] Sent 21000 requests.
+301    Dict     9l     328c     http://192.168.56.101:81/includes/hooks
+ -> Identified likely directory: includes/hooks/ 
+200    Dict     0l     0c       http://192.168.56.101:81/includes/constants.php
+[INFO] Sent 22000 requests.
+[INFO] Sent 23000 requests.
+[INFO] Sent 24000 requests.
+200    Dict     18l    1341c    http://192.168.56.101:81/config/
+[INFO] Sent 25000 requests.
+301    Dict     9l     328c     http://192.168.56.101:81/config/default
+ -> Identified likely directory: config/default/ 
+301    Dict     9l     330c     http://192.168.56.101:81/config/installer
+ -> Identified likely directory: config/installer/ 
+301    Dict     9l     331c     http://192.168.56.101:81/config/production
+ -> Identified likely directory: config/production/ 
+[INFO] Sent 26000 requests.
+[INFO] Sent 27000 requests.
+[INFO] Recursing into new directory: /docs/ (11 left)
+[INFO] Sent 28000 requests.
+[INFO] Sent 29000 requests.
+200    Dict     406l   24514c   http://192.168.56.101:81/docs/
+301    Dict     9l     325c     http://192.168.56.101:81/docs/assets
+ -> Identified likely directory: docs/assets/ [EXCLUDED]
+200    Dict     281l   15128c   http://192.168.56.101:81/docs/LICENSE.txt
+[INFO] Sent 30000 requests.
+[INFO] Sent 31000 requests.
+[INFO] Sent 32000 requests.
+[INFO] Sent 33000 requests.
+200    Dict     373l   19882c   http://192.168.56.101:81/docs/README.html
+[INFO] Sent 34000 requests.
+[INFO] Recursing into new directory: /download/ (10 left)
+[INFO] Sent 35000 requests.
+[INFO] Sent 36000 requests.
+200    Dict     10l    169c     http://192.168.56.101:81/download/
+200    Dict     10l    169c     http://192.168.56.101:81/download/index.htm
+[INFO] Sent 37000 requests.
+[INFO] Sent 38000 requests.
+[INFO] Sent 39000 requests.
+[INFO] Sent 40000 requests.
+[INFO] Sent 41000 requests.
+[INFO] Recursing into new directory: /bin/ (9 left)
+[INFO] Sent 42000 requests.
+[INFO] Sent 43000 requests.
+200    Dict     16l    942c     http://192.168.56.101:81/bin/
+[INFO] Sent 44000 requests.
+[INFO] Sent 45000 requests.
+[INFO] Sent 46000 requests.
+[INFO] Sent 47000 requests.
+[INFO] Recursing into new directory: /language/ (8 left)
+[INFO] Sent 48000 requests.
+[INFO] Sent 49000 requests.
+200    Dict     10l    169c     http://192.168.56.101:81/language/
+301    Dict     9l     325c     http://192.168.56.101:81/language/en
+ -> Identified likely directory: language/en/ 
+200    Dict     10l    169c     http://192.168.56.101:81/language/index.htm
+[INFO] Sent 50000 requests.
+[INFO] Sent 51000 requests.
+[INFO] Sent 52000 requests.
+[INFO] Sent 53000 requests.
+[INFO] Sent 54000 requests.
+[INFO] Recursing into new directory: /javascript/ (8 left)
+[INFO] Sent 55000 requests.
+[INFO] Sent 56000 requests.
+403    Dict     9l     279c     http://192.168.56.101:81/javascript/
+301    Dict     9l     331c     http://192.168.56.101:81/javascript/events
+ -> Identified likely directory: javascript/events/ 
+[INFO] Sent 57000 requests.
+[INFO] Sent 58000 requests.
+[INFO] Sent 59000 requests.
+[INFO] Sent 60000 requests.
+301    Dict     9l     329c     http://192.168.56.101:81/javascript/util
+ -> Identified likely directory: javascript/util/ 
+[INFO] Sent 61000 requests.
+[INFO] Recursing into new directory: /store/ (9 left)
+[INFO] Sent 62000 requests.
+[INFO] Sent 63000 requests.
+200    Dict     10l    169c     http://192.168.56.101:81/store/
+200    Dict     10l    169c     http://192.168.56.101:81/store/index.htm
+[INFO] Sent 64000 requests.
+[INFO] Sent 65000 requests.
+[INFO] Sent 66000 requests.
+[INFO] Sent 67000 requests.
+[INFO] Sent 68000 requests.
+[INFO] Recursing into new directory: /adm/ (8 left)
+[INFO] Sent 69000 requests.
+[INFO] Sent 70000 requests.
+302    Dict     0l     0c       http://192.168.56.101:81/adm/
+301    Dict     9l     324c     http://192.168.56.101:81/adm/images
+ -> Identified likely directory: adm/images/ [EXCLUDED]
+302    Dict     0l     0c       http://192.168.56.101:81/adm/index.php
+301    Dict     9l     323c     http://192.168.56.101:81/adm/style
+ -> Identified likely directory: adm/style/ 
+[INFO] Sent 71000 requests.
+[INFO] Sent 72000 requests.
+[INFO] Sent 73000 requests.
+[INFO] Sent 74000 requests.
+[INFO] Sent 75000 requests.
+[INFO] Recursing into new directory: /ext/ (8 left)
+[INFO] Sent 76000 requests.
+[INFO] Sent 77000 requests.
+200    Dict     10l    169c     http://192.168.56.101:81/ext/
+200    Dict     10l    169c     http://192.168.56.101:81/ext/index.htm
+[INFO] Sent 78000 requests.
+[INFO] Sent 79000 requests.
+[INFO] Sent 80000 requests.
+[INFO] Sent 81000 requests.
+[INFO] Sent 82000 requests.
+[INFO] Recursing into new directory: /includes/hooks/ (7 left)
+[INFO] Sent 83000 requests.
+[INFO] Sent 84000 requests.
+200    Dict     0l     0c       http://192.168.56.101:81/includes/hooks/
+200    Dict     0l     0c       http://192.168.56.101:81/includes/hooks/index.php
+[INFO] Sent 85000 requests.
+[INFO] Sent 86000 requests.
+[INFO] Sent 87000 requests.
+[INFO] Sent 88000 requests.
+[INFO] Sent 89000 requests.
+[INFO] Recursing into new directory: /config/default/ (6 left)
+[INFO] Sent 90000 requests.
+[INFO] Sent 91000 requests.
+200    Dict     18l    1363c    http://192.168.56.101:81/config/default/
+[INFO] Sent 92000 requests.
+[INFO] Sent 93000 requests.
+[INFO] Sent 94000 requests.
+[INFO] Sent 95000 requests.
+[INFO] Sent 96000 requests.
+[INFO] Recursing into new directory: /config/installer/ (5 left)
+[INFO] Sent 97000 requests.
+200    Dict     18l    1367c    http://192.168.56.101:81/config/installer/
+[INFO] Sent 98000 requests.
+[INFO] Sent 99000 requests.
+[INFO] Sent 100000 requests.
+[INFO] Sent 101000 requests.
+[INFO] Sent 102000 requests.
+[INFO] Recursing into new directory: /config/production/ (4 left)
+[INFO] Sent 103000 requests.
+[INFO] Sent 104000 requests.
+200    Dict     18l    1369c    http://192.168.56.101:81/config/production/
+[INFO] Sent 105000 requests.
+[INFO] Sent 106000 requests.
+[INFO] Sent 107000 requests.
+[INFO] Sent 108000 requests.
+[INFO] Sent 109000 requests.
+[INFO] Recursing into new directory: /language/en/ (3 left)
+[INFO] Sent 110000 requests.
+[INFO] Sent 111000 requests.
+200    Dict     10l    169c     http://192.168.56.101:81/language/en/
+200    Dict     0l     0c       http://192.168.56.101:81/language/en/app.php
+200    Dict     0l     0c       http://192.168.56.101:81/language/en/install.php
+200    Dict     0l     0c       http://192.168.56.101:81/language/en/common.php
+301    Dict     9l     331c     http://192.168.56.101:81/language/en/email
+ -> Identified likely directory: language/en/email/ 
+200    Dict     0l     0c       http://192.168.56.101:81/language/en/search.php
+301    Dict     9l     330c     http://192.168.56.101:81/language/en/help
+ -> Identified likely directory: language/en/help/ 
+200    Dict     0l     0c       http://192.168.56.101:81/language/en/cli.php
+200    Dict     10l    169c     http://192.168.56.101:81/language/en/index.htm
+[INFO] Sent 112000 requests.
+[INFO] Sent 113000 requests.
+[INFO] Sent 114000 requests.
+[INFO] Sent 115000 requests.
+200    Dict     2l     45c      http://192.168.56.101:81/language/en/iso.txt
+[INFO] Sent 116000 requests.
+200    Dict     0l     0c       http://192.168.56.101:81/language/en/groups.php
+[INFO] Recursing into new directory: /javascript/events/ (4 left)
+[INFO] Sent 117000 requests.
+[INFO] Sent 118000 requests.
+403    Dict     9l     279c     http://192.168.56.101:81/javascript/events/
+200    Dict     497l   14890c   http://192.168.56.101:81/javascript/events/events
+[INFO] Sent 119000 requests.
+[INFO] Sent 120000 requests.
+[INFO] Sent 121000 requests.
+[INFO] Sent 122000 requests.
+[INFO] Sent 123000 requests.
+[INFO] Recursing into new directory: /javascript/util/ (3 left)
+[INFO] Sent 124000 requests.
+[INFO] Sent 125000 requests.
+403    Dict     9l     279c     http://192.168.56.101:81/javascript/util/
+301    Dict     9l     337c     http://192.168.56.101:81/javascript/util/support
+ -> Identified likely directory: javascript/util/support/ 
+[INFO] Sent 126000 requests.
+[INFO] Sent 127000 requests.
+[INFO] Sent 128000 requests.
+[INFO] Sent 129000 requests.
+200    Dict     715l   19697c   http://192.168.56.101:81/javascript/util/util
+[INFO] Sent 130000 requests.
+[INFO] Recursing into new directory: /adm/style/ (3 left)
+[INFO] Sent 131000 requests.
+[INFO] Sent 132000 requests.
+200    Dict     108l   20875c   http://192.168.56.101:81/adm/style/
+[INFO] Sent 133000 requests.
+[INFO] Sent 134000 requests.
+[INFO] Sent 135000 requests.
+[INFO] Sent 136000 requests.
+[INFO] Sent 137000 requests.
+[INFO] Recursing into new directory: /language/en/email/ (2 left)
+[INFO] Sent 138000 requests.
+[INFO] Sent 139000 requests.
+200    Dict     10l    169c     http://192.168.56.101:81/language/en/email/
+200    Dict     13l    330c     http://192.168.56.101:81/language/en/email/test.txt
+200    Dict     10l    169c     http://192.168.56.101:81/language/en/email/index.htm
+[INFO] Sent 140000 requests.
+[INFO] Sent 141000 requests.
+[INFO] Sent 142000 requests.
+[INFO] Sent 143000 requests.
+[INFO] Recursing into new directory: /language/en/help/ (1 left)
+[INFO] Sent 144000 requests.
+[INFO] Sent 145000 requests.
+200    Dict     17l    1171c    http://192.168.56.101:81/language/en/help/
+200    Dict     0l     0c       http://192.168.56.101:81/language/en/help/faq.php
+[INFO] Sent 146000 requests.
+[INFO] Sent 147000 requests.
+[INFO] Sent 148000 requests.
+[INFO] Sent 149000 requests.
+[INFO] Sent 150000 requests.
+[INFO] Recursing into new directory: /javascript/util/support/ (0 left)
+[INFO] Sent 151000 requests.
+[INFO] Sent 152000 requests.
+403    Dict     9l     279c     http://192.168.56.101:81/javascript/util/support/
+[INFO] Sent 153000 requests.
+[INFO] Sent 154000 requests.
+[INFO] Sent 155000 requests.
+[INFO] Sent 156000 requests.
+[INFO] Sent 157000 requests.
+
+==== Summary ====
+Finished enumerating in 3847.77 seconds.
+Totals: 88 / 157711
+
+Breakdown by request origin:
+- Dict: 88 / 157711

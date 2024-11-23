@@ -1,0 +1,110 @@
+[Warning] 'tarty1' font is not printable in this environment.
+
+[INFO] Loaded wordlist file with 1829 words.
+[INFO] Beginning enumeration...
+200    Dict     409l   29386c   http://192.168.56.101:83/
+301    Dict     9l     317c     http://192.168.56.101:83/css
+ -> Identified likely directory: css/ 
+301    Dict     9l     316c     http://192.168.56.101:83/js
+ -> Identified likely directory: js/ 
+301    Dict     9l     320c     http://192.168.56.101:83/assets
+ -> Identified likely directory: assets/ [EXCLUDED]
+301    Dict     9l     318c     http://192.168.56.101:83/scss
+ -> Identified likely directory: scss/ 
+[INFO] Sent 1000 requests.
+[INFO] Sent 2000 requests.
+[INFO] Sent 3000 requests.
+[INFO] Sent 4000 requests.
+[INFO] Sent 5000 requests.
+[INFO] Sent 6000 requests.
+301    Dict     9l     324c     http://192.168.56.101:83/javascript
+ -> Identified likely directory: javascript/ 
+200    Dict     409l   29386c   http://192.168.56.101:83/index.html
+[INFO] Recursing into new directory: /css/ (3 left)
+301    Dict     9l     320c     http://192.168.56.101:83/manual
+ -> Identified likely directory: manual/ 
+[INFO] Sent 7000 requests.
+[INFO] Sent 8000 requests.
+200    Dict     18l    1347c    http://192.168.56.101:83/css/
+[INFO] Sent 9000 requests.
+[INFO] Sent 10000 requests.
+[INFO] Sent 11000 requests.
+[INFO] Sent 12000 requests.
+[INFO] Sent 13000 requests.
+[INFO] Recursing into new directory: /js/ (3 left)
+[INFO] Sent 14000 requests.
+[INFO] Sent 15000 requests.
+200    Dict     20l    1749c    http://192.168.56.101:83/js/
+[INFO] Sent 16000 requests.
+[INFO] Sent 17000 requests.
+[INFO] Sent 18000 requests.
+[INFO] Sent 19000 requests.
+[INFO] Recursing into new directory: /scss/ (2 left)
+[INFO] Sent 20000 requests.
+[INFO] Sent 21000 requests.
+[INFO] Sent 22000 requests.
+[INFO] Sent 23000 requests.
+[INFO] Sent 24000 requests.
+200    Dict     28l    3406c    http://192.168.56.101:83/scss/
+[INFO] Sent 25000 requests.
+[INFO] Sent 26000 requests.
+[INFO] Recursing into new directory: /javascript/ (1 left)
+[INFO] Sent 27000 requests.
+[INFO] Sent 28000 requests.
+[INFO] Sent 29000 requests.
+403    Dict     9l     279c     http://192.168.56.101:83/javascript/
+301    Dict     9l     331c     http://192.168.56.101:83/javascript/events
+ -> Identified likely directory: javascript/events/ 
+[INFO] Sent 30000 requests.
+[INFO] Sent 31000 requests.
+[INFO] Sent 32000 requests.
+301    Dict     9l     329c     http://192.168.56.101:83/javascript/util
+ -> Identified likely directory: javascript/util/ 
+[INFO] Sent 33000 requests.
+[INFO] Sent 34000 requests.
+[INFO] Recursing into new directory: /manual/ (2 left)
+[INFO] Sent 35000 requests.
+[INFO] Sent 36000 requests.
+200    Dict     16l    944c     http://192.168.56.101:83/manual/
+[INFO] Sent 37000 requests.
+[INFO] Sent 38000 requests.
+[INFO] Sent 39000 requests.
+[INFO] Sent 40000 requests.
+[INFO] Sent 41000 requests.
+[INFO] Recursing into new directory: /javascript/events/ (1 left)
+[INFO] Sent 42000 requests.
+[INFO] Sent 43000 requests.
+403    Dict     9l     279c     http://192.168.56.101:83/javascript/events/
+200    Dict     497l   14890c   http://192.168.56.101:83/javascript/events/events
+[INFO] Sent 44000 requests.
+[INFO] Sent 45000 requests.
+[INFO] Sent 46000 requests.
+[INFO] Sent 47000 requests.
+[INFO] Recursing into new directory: /javascript/util/ (0 left)
+[INFO] Sent 48000 requests.
+[INFO] Sent 49000 requests.
+403    Dict     9l     279c     http://192.168.56.101:83/javascript/util/
+301    Dict     9l     337c     http://192.168.56.101:83/javascript/util/support
+ -> Identified likely directory: javascript/util/support/ 
+[INFO] Sent 50000 requests.
+[INFO] Sent 51000 requests.
+[INFO] Sent 52000 requests.
+[INFO] Sent 53000 requests.
+200    Dict     715l   19697c   http://192.168.56.101:83/javascript/util/util
+[INFO] Sent 54000 requests.
+[INFO] Recursing into new directory: /javascript/util/support/ (0 left)
+[INFO] Sent 55000 requests.
+[INFO] Sent 56000 requests.
+403    Dict     9l     279c     http://192.168.56.101:83/javascript/util/support/
+[INFO] Sent 57000 requests.
+[INFO] Sent 58000 requests.
+[INFO] Sent 59000 requests.
+[INFO] Sent 60000 requests.
+[INFO] Sent 61000 requests.
+
+==== Summary ====
+Finished enumerating in 1281.61 seconds.
+Totals: 21 / 61713
+
+Breakdown by request origin:
+- Dict: 21 / 61713
